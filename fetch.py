@@ -10,8 +10,8 @@ from datetime import datetime, timezone, timedelta
 
 SITES = {
     "weibo": {"url": "https://tophub.today/n/KqndgxeLl9", "name": "微博"},
-    "bilihot": {"url": "https://tophub.today/n/Y2KeDGQdNP", "name": "哔哩哔哩"},
-    "douyin": {"url": "https://tophub.today/n/74KvxwokxM", "name": "抖音"},
+    "bilihot": {"url": "https://tophub.today/n/74KvxwokxM", "name": "哔哩哔哩"},
+    "douyin": {"url": "https://tophub.today/n/DpQvNABoNE", "name": "抖音"},
 }
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -39,8 +39,33 @@ def extract_items(html):
         if len(title) < 4 or len(title) > 100:
             continue
 
-        hot_match = re.search(r'(\d[\d.]*\s*[万亿]?)', row)
-        hot = hot_match.group(1) if hot_match else ""
+        # 提取热度
+        hot = ""
+        # 微博: <td class="ws">105万</td>
+        hot_td = re.search(r'<td class="ws">([^<]+)</td>', row)
+        if hot_td:
+            hot = hot_td.group(1).strip()
+        else:
+            # B站/抖音: td[2] 里的播放量，如 "228.3万" 或 "49367285次播放"
+            all_tds = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+            if len(all_tds) > 2:
+                td2_text = re.sub(r'<[^>]+>', ' ', all_tds[2]).strip()
+                # 找最后一个数字+单位
+                hot_m = re.findall(r'([\d.]+\s*[万亿]?\s*(?:次播放)?)', td2_text)
+                if hot_m:
+                    raw = hot_m[-1].strip()
+                    if '次播放' in raw:
+                        num_str = raw.replace('次播放', '').strip()
+                        try:
+                            n = float(num_str)
+                            if n >= 10000:
+                                hot = f"{n/10000:.0f}万"
+                            else:
+                                hot = raw
+                        except:
+                            hot = raw
+                    else:
+                        hot = raw
 
         items.append({
             "index": len(items) + 1,

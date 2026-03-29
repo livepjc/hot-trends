@@ -36,7 +36,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei
 .tab:hover,.tab.on{background:var(--card-h);color:var(--tx);border-color:rgba(255,255,255,.15)}
 .tab.on.dy{border-color:var(--dy);color:var(--dy)}.tab.on.bl{border-color:var(--bl);color:var(--bl)}.tab.on.wb{border-color:var(--wb);color:var(--wb)}
 .cols{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
-@media(max-width:900px){.cols{grid-template-columns:1fr}}
+@media(max-width:900px){.cols{grid-template-columns:1fr}.W{padding:12px 14px 30px}.hd h1{font-size:22px}.hd .sub{font-size:12px}.tabs{gap:8px;margin:14px 0}.tab{padding:8px 16px;font-size:13px}.cl h2{font-size:16px}.it{padding:12px 14px;gap:10px;border-radius:10px}.rk{width:26px;height:26px;font-size:12px}.tt{font-size:14px}.ht{font-size:11px}}
 .pn{display:none}.pn.on{display:block}
 .cl h2{font-size:18px;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
 .cl h2 .dot{width:10px;height:10px;border-radius:50%;display:inline-block}
