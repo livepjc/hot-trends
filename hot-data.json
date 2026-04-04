@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-05 05:42:08",
+  "update_time": "2026-04-05 06:00:15",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-05 05:42:07",
+      "update_time": "2026-04-05 06:00:13",
       "data": [
         {
           "index": 1,
@@ -314,7 +314,7 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-05 05:42:08",
+      "update_time": "2026-04-05 06:00:14",
       "data": [
         {
           "index": 1,
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 28",
-      "update_time": "2026-04-05 05:42:08",
+      "update_time": "2026-04-05 06:00:15",
       "data": [
         {
           "index": 1,
