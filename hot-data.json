@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-07 06:28:48",
+  "update_time": "2026-04-07 07:05:01",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-07 06:28:47",
+      "update_time": "2026-04-07 07:05:00",
       "data": [
         {
           "index": 1,
@@ -314,187 +314,187 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-07 06:28:48",
+      "update_time": "2026-04-07 07:05:01",
       "data": [
         {
           "index": 1,
           "title": "我被开除了...那就去旅行!!!",
           "url": "https://www.bilibili.com/video/av116334960579022/",
-          "hot": "501.0万"
+          "hot": "501.6万"
         },
         {
           "index": 2,
           "title": "朗诵马说（但读到“马”就马叫）",
           "url": "https://www.bilibili.com/video/av116339154880485/",
-          "hot": "437.9万"
+          "hot": "438.0万"
         },
         {
           "index": 3,
           "title": "什么叫你爹转生成你女朋友？然后你俩开了一把？",
           "url": "https://www.bilibili.com/video/av116343382739902/",
-          "hot": "299.7万"
+          "hot": "300.2万"
         },
         {
           "index": 4,
           "title": "《求职》",
           "url": "https://www.bilibili.com/video/av116344859330273/",
-          "hot": "541.0万"
+          "hot": "541.3万"
         },
         {
           "index": 5,
           "title": "《金牌打野》",
           "url": "https://www.bilibili.com/video/av116349154167873/",
-          "hot": "563.5万"
+          "hot": "564.0万"
         },
         {
           "index": 6,
+          "title": "幸福是如童话般美好的念想，而生活的疲惫却更贴近我的日常【学姐系列完结卷】",
+          "url": "https://www.bilibili.com/video/av116351519689791/",
+          "hot": "198.9万"
+        },
+        {
+          "index": 7,
           "title": "重窝 擒巨物！",
           "url": "https://www.bilibili.com/video/av116339574312119/",
           "hot": "224.6万"
         },
         {
-          "index": 7,
-          "title": "幸福是如童话般美好的念想，而生活的疲惫却更贴近我的日常【学姐系列完结卷】",
-          "url": "https://www.bilibili.com/video/av116351519689791/",
-          "hot": "198.0万"
-        },
-        {
           "index": 8,
           "title": "【特效向】燕双鹰vs全明星【完结】",
           "url": "https://www.bilibili.com/video/av116348147469159/",
-          "hot": "165.4万"
+          "hot": "165.8万"
         },
         {
           "index": 9,
           "title": "当你问二次元寝室都玩什么游戏..",
           "url": "https://www.bilibili.com/video/av116339926698828/",
-          "hot": "618.2万"
+          "hot": "618.7万"
         },
         {
           "index": 10,
           "title": "《青蛙上河图》",
           "url": "https://www.bilibili.com/video/av116346604096745/",
-          "hot": "215.3万"
+          "hot": "215.6万"
         },
         {
           "index": 11,
           "title": "3种古早日漫的常见音色～",
           "url": "https://www.bilibili.com/video/av116343500179005/",
-          "hot": "274.5万"
+          "hot": "274.7万"
         },
         {
           "index": 12,
           "title": "青年大学习：出社会的24个知识",
           "url": "https://www.bilibili.com/video/av116340262178005/",
-          "hot": "80.6万"
+          "hot": "80.7万"
         },
         {
           "index": 13,
-          "title": "带着100万，我们揭开了赌场的秘密…",
-          "url": "https://www.bilibili.com/video/av116339171728674/",
-          "hot": "572.0万"
+          "title": "他用一百美元，办了场奥运会",
+          "url": "https://www.bilibili.com/video/av116346184663644/",
+          "hot": "268.7万"
         },
         {
           "index": 14,
-          "title": "他用一百美元，办了场奥运会",
-          "url": "https://www.bilibili.com/video/av116346184663644/",
-          "hot": "267.3万"
+          "title": "带着100万，我们揭开了赌场的秘密…",
+          "url": "https://www.bilibili.com/video/av116339171728674/",
+          "hot": "572.7万"
         },
         {
           "index": 15,
           "title": "魔丸练瑜伽",
           "url": "https://www.bilibili.com/video/av116350479570216/",
-          "hot": "636.3万"
+          "hot": "637.8万"
         },
         {
           "index": 16,
           "title": "世界被核废水淹没，你只能靠钓鱼活下去！",
           "url": "https://www.bilibili.com/video/av116344037052829/",
-          "hot": "202.2万"
+          "hot": "203.1万"
         },
         {
           "index": 17,
-          "title": "当我把英文版《蛋糕店里卖蛋糕》唱给老外听！！",
-          "url": "https://www.bilibili.com/video/av116338651567569/",
-          "hot": "268.2万"
+          "title": "最 难 绷 躲 猫 猫 ！！",
+          "url": "https://www.bilibili.com/video/av116351167437561/",
+          "hot": "166.7万"
         },
         {
           "index": 18,
-          "title": "最 难 绷 躲 猫 猫 ！！",
-          "url": "https://www.bilibili.com/video/av116351167437561/",
-          "hot": "166.3万"
+          "title": "当我把英文版《蛋糕店里卖蛋糕》唱给老外听！！",
+          "url": "https://www.bilibili.com/video/av116338651567569/",
+          "hot": "268.3万"
         },
         {
           "index": 19,
           "title": "当学校来一名混的师时",
           "url": "https://www.bilibili.com/video/av116345563782114/",
-          "hot": "429.4万"
+          "hot": "430.1万"
         },
         {
           "index": 20,
           "title": "“这种没流量的画画最狠了”",
           "url": "https://www.bilibili.com/video/av116344792024714/",
-          "hot": "472.5万"
+          "hot": "472.7万"
         },
         {
           "index": 21,
           "title": "第一眼以为是玻璃的，结果…",
           "url": "https://www.bilibili.com/video/av116340513833137/",
-          "hot": "524.8万"
+          "hot": "525.4万"
         },
         {
           "index": 22,
           "title": "别失手了，卡卡西",
           "url": "https://www.bilibili.com/video/av116340832731342/",
-          "hot": "293.0万"
+          "hot": "293.4万"
         },
         {
           "index": 23,
           "title": "《先放一放》：偶尔“没心没肺”一下！",
           "url": "https://www.bilibili.com/video/av116351721014317/",
-          "hot": "142.7万"
+          "hot": "143.4万"
         },
         {
           "index": 24,
           "title": "哈哈哈哈（1）",
           "url": "https://www.bilibili.com/video/av116342862649938/",
-          "hot": "193.5万"
+          "hot": "193.7万"
         },
         {
           "index": 25,
           "title": "美国轰炸伊朗的剧本，27年前就写好了",
           "url": "https://www.bilibili.com/video/av116346117426322/",
-          "hot": "174.5万"
+          "hot": "174.8万"
         },
         {
           "index": 26,
-          "title": "凶手一句话，造就十年悬案",
-          "url": "https://www.bilibili.com/video/av116334524503283/",
-          "hot": "472.2万"
+          "title": "《体检是你的谎言》",
+          "url": "https://www.bilibili.com/video/av116351972676075/",
+          "hot": "242.2万"
         },
         {
           "index": 27,
-          "title": "《体检是你的谎言》",
-          "url": "https://www.bilibili.com/video/av116351972676075/",
-          "hot": "241.0万"
+          "title": "凶手一句话，造就十年悬案",
+          "url": "https://www.bilibili.com/video/av116334524503283/",
+          "hot": "474.7万"
         },
         {
           "index": 28,
           "title": "《非凡匠术》1-7集",
           "url": "https://www.bilibili.com/video/av116342543882955/",
-          "hot": "151.8万"
+          "hot": "151.9万"
         },
         {
           "index": 29,
           "title": "《关于同事互相帮助这件事》",
           "url": "https://www.bilibili.com/video/av116340077691501/",
-          "hot": "273.0万"
+          "hot": "273.3万"
         },
         {
           "index": 30,
           "title": "【灵笼修仙传】-凡人灵笼-惊变",
           "url": "https://www.bilibili.com/video/av116342493549726/",
-          "hot": "206.8万"
+          "hot": "207.1万"
         },
         {
           "index": 31,
@@ -504,21 +504,21 @@
         },
         {
           "index": 32,
-          "title": "小偷偷走我的玩具创意，获得北美销量第一",
-          "url": "https://www.bilibili.com/video/av116341067486306/",
-          "hot": "128.7万"
+          "title": "住手☆！不要用1月新番玷污我啊啊啊！！【泛式】",
+          "url": "https://www.bilibili.com/video/av116357542774472/",
+          "hot": "78.0万"
         },
         {
           "index": 33,
-          "title": "住手☆！不要用1月新番玷污我啊啊啊！！【泛式】",
-          "url": "https://www.bilibili.com/video/av116357542774472/",
-          "hot": "74.5万"
+          "title": "小偷偷走我的玩具创意，获得北美销量第一",
+          "url": "https://www.bilibili.com/video/av116341067486306/",
+          "hot": "128.9万"
         },
         {
           "index": 34,
           "title": "西域战神依旧发挥稳定",
           "url": "https://www.bilibili.com/video/av116345043750042/",
-          "hot": "163.0万"
+          "hot": "163.1万"
         },
         {
           "index": 35,
@@ -528,93 +528,93 @@
         },
         {
           "index": 36,
-          "title": "一战到底最大奖品！",
-          "url": "https://www.bilibili.com/video/av116333836503017/",
-          "hot": "329.8万"
+          "title": "一家集齐中国、犹太和阿拉伯女婿，见面就吵，法国岳父崩溃了",
+          "url": "https://www.bilibili.com/video/av116346167761024/",
+          "hot": "283.9万"
         },
         {
           "index": 37,
-          "title": "一家集齐中国、犹太和阿拉伯女婿，见面就吵，法国岳父崩溃了",
-          "url": "https://www.bilibili.com/video/av116346167761024/",
-          "hot": "283.4万"
+          "title": "一战到底最大奖品！",
+          "url": "https://www.bilibili.com/video/av116333836503017/",
+          "hot": "330.0万"
         },
         {
           "index": 38,
           "title": "狂犬病：猎魔异闻录",
           "url": "https://www.bilibili.com/video/av116349120546020/",
-          "hot": "109.6万"
+          "hot": "109.8万"
         },
         {
           "index": 39,
           "title": "你想～滴美～",
           "url": "https://www.bilibili.com/video/av116344121006032/",
-          "hot": "159.9万"
+          "hot": "160.0万"
         },
         {
           "index": 40,
           "title": "他亲手毁掉画作，创造穿越时空的笔触！",
           "url": "https://www.bilibili.com/video/av116341453363782/",
-          "hot": "354.7万"
+          "hot": "357.1万"
         },
         {
           "index": 41,
           "title": "【李荣浩】燃爆全场的《李白》六机位 2026.04.04 江苏徐州 天赐的声音 巅峰演唱会 多机位超清4K饭拍",
           "url": "https://www.bilibili.com/video/av116347342166016/",
-          "hot": "230.4万"
+          "hot": "230.5万"
         },
         {
           "index": 42,
           "title": "水 煎 牛 肋 ！",
           "url": "https://www.bilibili.com/video/av116343483404617/",
-          "hot": "144.0万"
+          "hot": "144.1万"
         },
         {
           "index": 43,
           "title": "理 解 大 爷 🔥 成 为 大 爷！",
           "url": "https://www.bilibili.com/video/av116341084328213/",
-          "hot": "375.6万"
+          "hot": "375.7万"
         },
         {
           "index": 44,
           "title": "unravel（粤语完整版）",
           "url": "https://www.bilibili.com/video/av116299275442932/",
-          "hot": "43.1万"
+          "hot": "43.5万"
         },
         {
           "index": 45,
-          "title": "新侦查干员“回响”手捏4颗闪！耳听近百米！12秒隔墙透视！「三角洲S8赛季」",
-          "url": "https://www.bilibili.com/video/av116342980088832/",
-          "hot": "206.3万"
+          "title": "当你穿进老钱班21",
+          "url": "https://www.bilibili.com/video/av116356653517623/",
+          "hot": "179.8万"
         },
         {
           "index": 46,
-          "title": "《当不同专业误差是19mm》",
-          "url": "https://www.bilibili.com/video/av116342141293840/",
-          "hot": "280.7万"
+          "title": "新侦查干员“回响”手捏4颗闪！耳听近百米！12秒隔墙透视！「三角洲S8赛季」",
+          "url": "https://www.bilibili.com/video/av116342980088832/",
+          "hot": "206.5万"
         },
         {
           "index": 47,
-          "title": "当你穿进老钱班21",
-          "url": "https://www.bilibili.com/video/av116356653517623/",
-          "hot": "170.0万"
+          "title": "《当不同专业误差是19mm》",
+          "url": "https://www.bilibili.com/video/av116342141293840/",
+          "hot": "280.8万"
         },
         {
           "index": 48,
           "title": "风筝线杀人事件！",
           "url": "https://www.bilibili.com/video/av116340278954791/",
-          "hot": "296.8万"
+          "hot": "296.9万"
         },
         {
           "index": 49,
           "title": "最终话：再见了，所有的凑企鹅！",
           "url": "https://www.bilibili.com/video/av116351452650841/",
-          "hot": "128.7万"
+          "hot": "128.9万"
         },
         {
           "index": 50,
           "title": "集齐了三主宠后一对比，本就垃圾的胖猫更垃圾了",
           "url": "https://www.bilibili.com/video/av116346302045582/",
-          "hot": "163.0万"
+          "hot": "163.2万"
         }
       ]
     },
@@ -622,127 +622,127 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 29",
-      "update_time": "2026-04-07 06:28:48",
+      "update_time": "2026-04-07 07:05:01",
       "data": [
         {
           "index": 1,
-          "title": "4月5日，湖南韶山。清明寄哀思，毛新宇携家人回韶山祭祖，并向毛主席铜像献花篮。毛东东搀扶父亲毛新宇绕铜像一周，缅怀毛主席。慎终追远，礼敬祖先。（记者：王易楚 赵荆威）",
-          "url": "https://www.douyin.com/video/7625098109713960202",
-          "hot": "14160万"
+          "title": "当你穿进老钱班21#侯绿萝#老钱班",
+          "url": "https://www.douyin.com/video/7625228355792923301",
+          "hot": "3959万"
         },
         {
           "index": 2,
-          "title": "饭店的寒假工，餐饮人噩梦！",
-          "url": "https://www.douyin.com/video/7625072282112848610",
-          "hot": "3694万"
+          "title": "饭店的寒假工，订台骗局",
+          "url": "https://www.douyin.com/video/7625444233247662516",
+          "hot": "3376万"
         },
         {
           "index": 3,
-          "title": "饭店的寒假工，客人过生日！",
-          "url": "https://www.douyin.com/video/7624770832100173263",
-          "hot": "3019万"
+          "title": "饭店的寒假工，餐饮人噩梦！",
+          "url": "https://www.douyin.com/video/7625072282112848610",
+          "hot": "3051万"
         },
         {
           "index": 4,
-          "title": "《关于同事互助这件事》 #内容过于真实 #办公室 #一定要看到最后",
-          "url": "https://www.douyin.com/video/7624463168063999286",
-          "hot": "2960万"
+          "title": "合着这背着我在外面是又抽烟又喝酒啊！ #精神小伙 #九号电动车 #机车",
+          "url": "https://www.douyin.com/video/7625226721507242601",
+          "hot": "2681万"
         },
         {
           "index": 5,
-          "title": "川渝地区狗子都可以上坟！ #祭祖",
-          "url": "https://www.douyin.com/video/7624851385574686666",
-          "hot": "2921万"
+          "title": "《关于同事互助这件事》 #内容过于真实 #办公室 #一定要看到最后",
+          "url": "https://www.douyin.com/video/7624463168063999286",
+          "hot": "2669万"
         },
         {
           "index": 6,
-          "title": "#清明能不能祝人快乐 ？ 清明节，既可以慎终追远，也可以享受春光。我们缅怀先人，也要祝福自己游春快乐！",
-          "url": "https://www.douyin.com/video/7625117224927251758",
-          "hot": "2487万"
+          "title": "曾许人间白首，终被俗世左右 #陈翔六点半",
+          "url": "https://www.douyin.com/video/7625158160226995499",
+          "hot": "2233万"
         },
         {
           "index": 7,
-          "title": "#乘风2026初舞台  《一个人想着一个人》前奏一响直接破防，听曾沛慈把思念唱进心底～#乘风2026",
-          "url": "https://www.douyin.com/video/7624883516613922090",
-          "hot": "1814万"
+          "title": "《先放一放》：偶尔“没心没肺”一下! #马超群作品 #原创 #先放一放 #周深",
+          "url": "https://www.douyin.com/video/7625159234732166451",
+          "hot": "2056万"
         },
         {
           "index": 8,
-          "title": "猜猜录了几遍#nobatidao #粉彩妆 #nobatidao加强版",
-          "url": "https://www.douyin.com/video/7624465956170370984",
-          "hot": "1696万"
+          "title": "笑得我发抖…甩下来怎么还自带慢动作#猫咪迷惑行为",
+          "url": "https://www.douyin.com/video/7624079344655533931",
+          "hot": "2048万"
         },
         {
           "index": 9,
-          "title": "25岁谯禾林牺牲，执法现场画面公开！",
-          "url": "https://www.douyin.com/video/7624390321408904499",
-          "hot": "1662万"
+          "title": "祖宗：这个孙子我咋看谁都不像",
+          "url": "https://www.douyin.com/video/7624889554104751817",
+          "hot": "2024万"
         },
         {
           "index": 10,
-          "title": "用白砂糖竟然能给敦煌神女鸿音重塑肉身，你敢信？ #糖艺  #手艺人  #百young非遗计划#百young非遗新青年 #青年创作者成长计划",
-          "url": "https://www.douyin.com/video/7624409426031611188",
-          "hot": "1631万"
+          "title": "和豆包玩猜历史人物，但是豆包来猜 #文脉里的中国 #用AI打开人文新视界#豆包#历史 #猜人物",
+          "url": "https://www.douyin.com/video/7625547255886343525",
+          "hot": "1385万"
         },
         {
           "index": 11,
-          "title": "笑得我发抖…甩下来怎么还自带慢动作#猫咪迷惑行为",
-          "url": "https://www.douyin.com/video/7624079344655533931",
-          "hot": "1616万"
+          "title": "猜猜录了几遍#nobatidao #粉彩妆 #nobatidao加强版",
+          "url": "https://www.douyin.com/video/7624465956170370984",
+          "hot": "1370万"
         },
         {
           "index": 12,
-          "title": "丸辣丸辣 起早了拿错香了😂😂",
-          "url": "https://www.douyin.com/video/7624729035611961593",
-          "hot": "1467万"
+          "title": "突发奇想让小狗猜性别 #海龟汤 #猜性别 #怀孕",
+          "url": "https://www.douyin.com/video/7625132450158562602",
+          "hot": "1346万"
         },
         {
           "index": 13,
-          "title": "心动是本能，如何抉择却成为了课题 #赖言赖语 #粉丝投稿 #未来导演扶持计划 #超能演剧情大赛 #dou斯卡",
-          "url": "https://www.douyin.com/video/7624741114998933349",
-          "hot": "1321万"
+          "title": "当我怀他是天天看虾仁动漫，然后生出来了个“小虾仁”宝#刚出生的宝宝#人类幼崽#萌娃日常",
+          "url": "https://www.douyin.com/video/7625242491365738353",
+          "hot": "1283万"
         },
         {
           "index": 14,
-          "title": "合着这背着我在外面是又抽烟又喝酒啊！ #精神小伙 #九号电动车 #机车",
-          "url": "https://www.douyin.com/video/7625226721507242601",
-          "hot": "1290万"
+          "title": "请看视频，大熊猫“奶孩子”的精神状态。网友：演我假期带娃",
+          "url": "https://www.douyin.com/video/7625442667064806656",
+          "hot": "1269万"
         },
         {
           "index": 15,
-          "title": "#粉彩妆 变身！变身变身！",
-          "url": "https://www.douyin.com/video/7624824530707496847",
-          "hot": "1272万"
+          "title": "25岁谯禾林牺牲，执法现场画面公开！",
+          "url": "https://www.douyin.com/video/7624390321408904499",
+          "hot": "1249万"
         },
         {
           "index": 16,
-          "title": "要喝什么和咪说，咪给你摇！ #猫咪的迷惑行为 #矮脚猫 #古茗香草籽维也纳  #古茗  #古茗咖啡",
-          "url": "https://www.douyin.com/video/7624444433195665649",
-          "hot": "1270万"
+          "title": "开庭的时候带上你的尾巴#萌宠出道计划 #萌宠成精了",
+          "url": "https://www.douyin.com/video/7624091679092616052",
+          "hot": "1224万"
         },
         {
           "index": 17,
           "title": "我以为能跳的好结果没跳好这不也跳挺好#海绵宝宝舞蹈挑战",
           "url": "https://www.douyin.com/video/7623971556993100785",
-          "hot": "1231万"
+          "hot": "1105万"
         },
         {
           "index": 18,
-          "title": "饭店的寒假工，客人迟到！",
-          "url": "https://www.douyin.com/video/7624417318848199092",
-          "hot": "1136万"
+          "title": "另外一个视角 #美丽的神话 #唱歌",
+          "url": "https://www.douyin.com/video/7625206793774841577",
+          "hot": "1101万"
         },
         {
           "index": 19,
-          "title": "不收徒 #和平精英#和平精英丝路敦煌#和平精英丝路贺新春",
-          "url": "https://www.douyin.com/video/7613279100514305354",
-          "hot": "1128万"
+          "title": "网友已经快被笑死了，转头发现bro还在加新的东西 #大母龙#蛋糕店里卖蛋糕 #跳跃不是罪过#穿搭",
+          "url": "https://www.douyin.com/video/7625216419097918463",
+          "hot": "1065万"
         },
         {
           "index": 20,
-          "title": "我不管，我就要买。",
-          "url": "https://www.douyin.com/video/7624688240318054905",
-          "hot": "1125万"
+          "title": "车主们注意！清明假期结束后，也就是4月7日24时，国内成品油价格将迎调整，预计下周汽柴油价格再上涨0.14元/升-0.17元/升",
+          "url": "https://www.douyin.com/video/7625227285834108212",
+          "hot": "1036万"
         },
         {
           "index": 21,
