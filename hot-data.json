@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-08 19:42:38",
+  "update_time": "2026-04-08 20:43:48",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-08 19:42:38",
+      "update_time": "2026-04-08 20:43:48",
       "data": [
         {
           "index": 1,
@@ -314,307 +314,307 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-08 19:42:38",
+      "update_time": "2026-04-08 20:43:48",
       "data": [
         {
           "index": 1,
           "title": "当你穿进老钱班21",
           "url": "https://www.bilibili.com/video/av116356653517623/",
-          "hot": "420.3万"
+          "hot": "426.5万"
         },
         {
           "index": 2,
           "title": "住手☆！不要用1月新番玷污我啊啊啊！！【泛式】",
           "url": "https://www.bilibili.com/video/av116357542774472/",
-          "hot": "228.8万"
+          "hot": "231.1万"
         },
         {
           "index": 3,
           "title": "幸福是如童话般美好的念想，而生活的疲惫却更贴近我的日常【学姐系列完结卷】",
           "url": "https://www.bilibili.com/video/av116351519689791/",
-          "hot": "230.1万"
+          "hot": "231.0万"
         },
         {
           "index": 4,
-          "title": "《金牌打野》",
-          "url": "https://www.bilibili.com/video/av116349154167873/",
-          "hot": "652.7万"
+          "title": "魔丸练瑜伽",
+          "url": "https://www.bilibili.com/video/av116350479570216/",
+          "hot": "801.5万"
         },
         {
           "index": 5,
-          "title": "魔丸练瑜伽",
-          "url": "https://www.bilibili.com/video/av116350479570216/",
-          "hot": "792.8万"
+          "title": "《体检是你的谎言》",
+          "url": "https://www.bilibili.com/video/av116351972676075/",
+          "hot": "398.5万"
         },
         {
           "index": 6,
-          "title": "《先放一放》：偶尔“没心没肺”一下！",
-          "url": "https://www.bilibili.com/video/av116351721014317/",
-          "hot": "175.2万"
+          "title": "他用一百美元，办了场奥运会",
+          "url": "https://www.bilibili.com/video/av116346184663644/",
+          "hot": "370.1万"
         },
         {
           "index": 7,
-          "title": "《体检是你的谎言》",
-          "url": "https://www.bilibili.com/video/av116351972676075/",
-          "hot": "387.2万"
+          "title": "《先放一放》：偶尔“没心没肺”一下！",
+          "url": "https://www.bilibili.com/video/av116351721014317/",
+          "hot": "176.2万"
         },
         {
           "index": 8,
-          "title": "他用一百美元，办了场奥运会",
-          "url": "https://www.bilibili.com/video/av116346184663644/",
-          "hot": "364.0万"
+          "title": "《金牌打野》",
+          "url": "https://www.bilibili.com/video/av116349154167873/",
+          "hot": "656.7万"
         },
         {
           "index": 9,
-          "title": "最 难 绷 躲 猫 猫 ！！",
-          "url": "https://www.bilibili.com/video/av116351167437561/",
-          "hot": "212.1万"
+          "title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+          "url": "https://www.bilibili.com/video/av116362106110084/",
+          "hot": "179.4万"
         },
         {
           "index": 10,
-          "title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
-          "url": "https://www.bilibili.com/video/av116362106110084/",
-          "hot": "171.0万"
+          "title": "《原神》角色预告-「莉奈娅：精准答疑，倾心追奇！」",
+          "url": "https://www.bilibili.com/video/av116361049152128/",
+          "hot": "104.1万"
         },
         {
           "index": 11,
-          "title": "《原神》角色预告-「莉奈娅：精准答疑，倾心追奇！」",
-          "url": "https://www.bilibili.com/video/av116361049152128/",
-          "hot": "102.7万"
+          "title": "最 难 绷 躲 猫 猫 ！！",
+          "url": "https://www.bilibili.com/video/av116351167437561/",
+          "hot": "213.8万"
         },
         {
           "index": 12,
           "title": "【特效向】燕双鹰vs全明星【完结】",
           "url": "https://www.bilibili.com/video/av116348147469159/",
-          "hot": "197.3万"
+          "hot": "198.2万"
         },
         {
           "index": 13,
-          "title": "电工小谢，逃跑故事",
-          "url": "https://www.bilibili.com/video/av116351721016521/",
-          "hot": "121.1万"
+          "title": "用船制作的跑酷？",
+          "url": "https://www.bilibili.com/video/av116356955507525/",
+          "hot": "151.6万"
         },
         {
           "index": 14,
-          "title": "生命的厚度",
-          "url": "https://www.bilibili.com/video/av116348852111219/",
-          "hot": "197.6万"
+          "title": "陈鲁豫对话陈文淇：那个领完奖要回去上学的女孩，走入成人世界后 | 陈鲁豫·慢谈EP15【视频播客】",
+          "url": "https://www.bilibili.com/video/av116333819857720/",
+          "hot": "181.2万"
         },
         {
           "index": 15,
-          "title": "陈鲁豫对话陈文淇：那个领完奖要回去上学的女孩，走入成人世界后 | 陈鲁豫·慢谈EP15【视频播客】",
-          "url": "https://www.bilibili.com/video/av116333819857720/",
-          "hot": "178.7万"
+          "title": "电工小谢，逃跑故事",
+          "url": "https://www.bilibili.com/video/av116351721016521/",
+          "hot": "122.5万"
         },
         {
           "index": 16,
-          "title": "用船制作的跑酷？",
-          "url": "https://www.bilibili.com/video/av116356955507525/",
-          "hot": "148.1万"
+          "title": "生命的厚度",
+          "url": "https://www.bilibili.com/video/av116348852111219/",
+          "hot": "197.7万"
         },
         {
           "index": 17,
-          "title": "《青蛙上河图》",
-          "url": "https://www.bilibili.com/video/av116346604096745/",
-          "hot": "246.9万"
+          "title": "最终话：再见了，所有的凑企鹅！",
+          "url": "https://www.bilibili.com/video/av116351452650841/",
+          "hot": "146.5万"
         },
         {
           "index": 18,
-          "title": "他亲手毁掉画作，创造穿越时空的笔触！",
-          "url": "https://www.bilibili.com/video/av116341453363782/",
-          "hot": "447.0万"
+          "title": "《渣养翻车》1-3合集",
+          "url": "https://www.bilibili.com/video/av116356552859020/",
+          "hot": "122.2万"
         },
         {
           "index": 19,
-          "title": "最终话：再见了，所有的凑企鹅！",
-          "url": "https://www.bilibili.com/video/av116351452650841/",
-          "hot": "146.0万"
+          "title": "四川妹子在芬兰市中心开中式烧烤餐车摆摊创业火爆街头！川渝烧烤宜宾燃面各国老外街头撸串太疯狂！大排长龙求开店！",
+          "url": "https://www.bilibili.com/video/av116356838135583/",
+          "hot": "160.5万"
         },
         {
           "index": 20,
-          "title": "我被开除了...那就去旅行!!!",
-          "url": "https://www.bilibili.com/video/av116334960579022/",
-          "hot": "565.7万"
+          "title": "他亲手毁掉画作，创造穿越时空的笔触！",
+          "url": "https://www.bilibili.com/video/av116341453363782/",
+          "hot": "449.8万"
         },
         {
           "index": 21,
           "title": "别失手了，卡卡西",
           "url": "https://www.bilibili.com/video/av116340832731342/",
-          "hot": "334.0万"
+          "hot": "335.3万"
         },
         {
           "index": 22,
           "title": "当我花20租了个房子",
           "url": "https://www.bilibili.com/video/av116357995895517/",
-          "hot": "298.0万"
+          "hot": "301.1万"
         },
         {
           "index": 23,
-          "title": "四川妹子在芬兰市中心开中式烧烤餐车摆摊创业火爆街头！川渝烧烤宜宾燃面各国老外街头撸串太疯狂！大排长龙求开店！",
-          "url": "https://www.bilibili.com/video/av116356838135583/",
-          "hot": "156.9万"
+          "title": "堪比滴血认亲",
+          "url": "https://www.bilibili.com/video/av116351133816301/",
+          "hot": "126.5万"
         },
         {
           "index": 24,
-          "title": "清明和家里人祭祖的你：",
-          "url": "https://www.bilibili.com/video/av116351989520517/",
-          "hot": "167.1万"
+          "title": "我被开除了...那就去旅行!!!",
+          "url": "https://www.bilibili.com/video/av116334960579022/",
+          "hot": "568.9万"
         },
         {
           "index": 25,
-          "title": "堪比滴血认亲",
-          "url": "https://www.bilibili.com/video/av116351133816301/",
-          "hot": "126.0万"
+          "title": "《青蛙上河图》",
+          "url": "https://www.bilibili.com/video/av116346604096745/",
+          "hot": "247.8万"
         },
         {
           "index": 26,
-          "title": "《关于同事互相帮助这件事》",
-          "url": "https://www.bilibili.com/video/av116340077691501/",
-          "hot": "326.5万"
+          "title": "《崩坏：星穹铁道》阿哈时刻：「千冶•刃」",
+          "url": "https://www.bilibili.com/video/av116361015592951/",
+          "hot": "180.1万"
         },
         {
           "index": 27,
-          "title": "《崩坏：星穹铁道》阿哈时刻：「千冶•刃」",
-          "url": "https://www.bilibili.com/video/av116361015592951/",
-          "hot": "178.5万"
+          "title": "第一次中大奖",
+          "url": "https://www.bilibili.com/video/av116353818166346/",
+          "hot": "147.5万"
         },
         {
           "index": 28,
-          "title": "《渣养翻车》1-3合集",
-          "url": "https://www.bilibili.com/video/av116356552859020/",
-          "hot": "113.9万"
+          "title": "“至此，已成仙品！！！”",
+          "url": "https://www.bilibili.com/video/av116357039393502/",
+          "hot": "195.6万"
         },
         {
           "index": 29,
-          "title": "第一次中大奖",
-          "url": "https://www.bilibili.com/video/av116353818166346/",
-          "hot": "144.6万"
+          "title": "【乐正绫原创】碎梦【世末歌者系列】",
+          "url": "https://www.bilibili.com/video/av116351083484274/",
+          "hot": "24.4万"
         },
         {
           "index": 30,
-          "title": "【乐正绫原创】碎梦【世末歌者系列】",
-          "url": "https://www.bilibili.com/video/av116351083484274/",
-          "hot": "24.2万"
+          "title": "清明和家里人祭祖的你：",
+          "url": "https://www.bilibili.com/video/av116351989520517/",
+          "hot": "168.2万"
         },
         {
           "index": 31,
+          "title": "当我网购了零差评的降落伞，结局是...",
+          "url": "https://www.bilibili.com/video/av116346436257465/",
+          "hot": "500.8万"
+        },
+        {
+          "index": 32,
+          "title": "循环歌单|【Vois sur ton chemin 】|“【攻防转换の小曲】”",
+          "url": "https://www.bilibili.com/video/av116350546614287/",
+          "hot": "474.1万"
+        },
+        {
+          "index": 33,
           "title": "赛博诸葛向您诚意推荐《逆战：未来》S2赛季",
           "url": "https://www.bilibili.com/video/av116352845087300/",
           "hot": "320.0万"
         },
         {
-          "index": 32,
-          "title": "当我网购了零差评的降落伞，结局是...",
-          "url": "https://www.bilibili.com/video/av116346436257465/",
-          "hot": "499.1万"
-        },
-        {
-          "index": 33,
-          "title": "循环歌单|【Vois sur ton chemin 】|“【攻防转换の小曲】”",
-          "url": "https://www.bilibili.com/video/av116350546614287/",
-          "hot": "460.8万"
-        },
-        {
           "index": 34,
-          "title": "【洛克王国世界】领地试炼超低配攻略/1200分光水晶/0.75个棱镜球/洛克王国：世界",
-          "url": "https://www.bilibili.com/video/av116351704368355/",
-          "hot": "83.6万"
+          "title": "那又怎样～",
+          "url": "https://www.bilibili.com/video/av116352358620473/",
+          "hot": "111.0万"
         },
         {
           "index": 35,
-          "title": "“至此，已成仙品！！！”",
-          "url": "https://www.bilibili.com/video/av116357039393502/",
-          "hot": "183.6万"
+          "title": "北约对美国的反抗",
+          "url": "https://www.bilibili.com/video/av116366602403873/",
+          "hot": "99.8万"
         },
         {
           "index": 36,
-          "title": "那又怎样～",
-          "url": "https://www.bilibili.com/video/av116352358620473/",
-          "hot": "110.1万"
+          "title": "《关于同事互相帮助这件事》",
+          "url": "https://www.bilibili.com/video/av116340077691501/",
+          "hot": "329.6万"
         },
         {
           "index": 37,
-          "title": "【日本人详解】日本街头最危险的“吞金兽”：为什么踏入［柏青哥］就再也无法回头？",
-          "url": "https://www.bilibili.com/video/av116331420583871/",
-          "hot": "120.1万"
+          "title": "葫芦娃救大兵瑞恩？这波伊朗和美国都赢了！",
+          "url": "https://www.bilibili.com/video/av116362743711317/",
+          "hot": "132.9万"
         },
         {
           "index": 38,
-          "title": "unravel（粤语完整版）",
-          "url": "https://www.bilibili.com/video/av116299275442932/",
-          "hot": "56.1万"
+          "title": "荧：我看你是活腻了",
+          "url": "https://www.bilibili.com/video/av116356519429859/",
+          "hot": "171.2万"
         },
         {
           "index": 39,
-          "title": "美国轰炸伊朗的剧本，27年前就写好了",
-          "url": "https://www.bilibili.com/video/av116346117426322/",
-          "hot": "215.7万"
+          "title": "你没救大自然，大自然正在救你——鸟和塑料的新故事",
+          "url": "https://www.bilibili.com/video/av116347174389318/",
+          "hot": "80.9万"
         },
         {
           "index": 40,
-          "title": "你没救大自然，大自然正在救你——鸟和塑料的新故事",
-          "url": "https://www.bilibili.com/video/av116347174389318/",
-          "hot": "79.9万"
+          "title": "【洛克王国世界】领地试炼超低配攻略/1200分光水晶/0.75个棱镜球/洛克王国：世界",
+          "url": "https://www.bilibili.com/video/av116351704368355/",
+          "hot": "84.3万"
         },
         {
           "index": 41,
-          "title": "【李荣浩】燃爆全场的《李白》六机位 2026.04.04 江苏徐州 天赐的声音 巅峰演唱会 多机位超清4K饭拍",
-          "url": "https://www.bilibili.com/video/av116347342166016/",
-          "hot": "247.3万"
+          "title": "美国轰炸伊朗的剧本，27年前就写好了",
+          "url": "https://www.bilibili.com/video/av116346117426322/",
+          "hot": "218.3万"
         },
         {
           "index": 42,
-          "title": "“这种没流量的画画最狠了”",
-          "url": "https://www.bilibili.com/video/av116344792024714/",
-          "hot": "496.2万"
+          "title": "【日本人详解】日本街头最危险的“吞金兽”：为什么踏入［柏青哥］就再也无法回头？",
+          "url": "https://www.bilibili.com/video/av116331420583871/",
+          "hot": "120.5万"
         },
         {
           "index": 43,
-          "title": "荧：我看你是活腻了",
-          "url": "https://www.bilibili.com/video/av116356519429859/",
-          "hot": "170.0万"
+          "title": "艾特你那个喜欢萝莉的朋友过来看",
+          "url": "https://www.bilibili.com/video/av116359958633762/",
+          "hot": "57.9万"
         },
         {
           "index": 44,
-          "title": "葫芦娃救大兵瑞恩？这波伊朗和美国都赢了！",
-          "url": "https://www.bilibili.com/video/av116362743711317/",
-          "hot": "130.1万"
+          "title": "【爱琴海 | 官方MV 】周杰伦 这不是一首关于重逢的歌，而是一首关于「看着你走远」的风景画",
+          "url": "https://www.bilibili.com/video/av116355747679451/",
+          "hot": "126.1万"
         },
         {
           "index": 45,
-          "title": "《非凡匠术》1-7集",
-          "url": "https://www.bilibili.com/video/av116342543882955/",
-          "hot": "166.6万"
+          "title": "我将与他奇观对顶！【帝国时代4】",
+          "url": "https://www.bilibili.com/video/av116363028860084/",
+          "hot": "66.7万"
         },
         {
           "index": 46,
-          "title": "一家集齐中国、犹太和阿拉伯女婿，见面就吵，法国岳父崩溃了",
-          "url": "https://www.bilibili.com/video/av116346167761024/",
-          "hot": "346.0万"
+          "title": "“妈妈，我会让双手染「血」，我要让死人复活！”【游戏巨辩】",
+          "url": "https://www.bilibili.com/video/av116353532955768/",
+          "hot": "75.0万"
         },
         {
           "index": 47,
-          "title": "陈翔六点半：曾许人间白首，终被俗世左右",
-          "url": "https://www.bilibili.com/video/av116351150725005/",
-          "hot": "424.8万"
+          "title": "全新【监管者】“牙医”故事视频首发：——“让腐烂，成为新的感官……”",
+          "url": "https://www.bilibili.com/video/av116340362903690/",
+          "hot": "199.6万"
         },
         {
           "index": 48,
-          "title": "经典永不过时",
-          "url": "https://www.bilibili.com/video/av116351284808485/",
-          "hot": "216.6万"
+          "title": "【李荣浩】燃爆全场的《李白》六机位 2026.04.04 江苏徐州 天赐的声音 巅峰演唱会 多机位超清4K饭拍",
+          "url": "https://www.bilibili.com/video/av116347342166016/",
+          "hot": "247.6万"
         },
         {
           "index": 49,
-          "title": "【爱琴海 | 官方MV 】周杰伦 这不是一首关于重逢的歌，而是一首关于「看着你走远」的风景画",
-          "url": "https://www.bilibili.com/video/av116355747679451/",
-          "hot": "125.2万"
+          "title": "《非凡匠术》1-7集",
+          "url": "https://www.bilibili.com/video/av116342543882955/",
+          "hot": "166.8万"
         },
         {
           "index": 50,
-          "title": "全新【监管者】“牙医”故事视频首发：——“让腐烂，成为新的感官……”",
-          "url": "https://www.bilibili.com/video/av116340362903690/",
-          "hot": "199.2万"
+          "title": "6位UP主100天理财挑战！谁将成为最强理财王？",
+          "url": "https://www.bilibili.com/video/av116356150201437/",
+          "hot": "94.3万"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 28",
-      "update_time": "2026-04-08 19:42:38",
+      "update_time": "2026-04-08 20:43:48",
       "data": [
         {
           "index": 1,
