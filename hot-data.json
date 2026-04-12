@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-13 06:48:58",
+  "update_time": "2026-04-13 07:20:53",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-13 06:48:57",
+      "update_time": "2026-04-13 07:20:52",
       "data": [
         {
           "index": 1,
@@ -314,49 +314,49 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-13 06:48:58",
+      "update_time": "2026-04-13 07:20:53",
       "data": [
         {
           "index": 1,
           "title": "《崩坏：星穹铁道》原创动画•概念PV——「死于午后」",
           "url": "https://www.bilibili.com/video/av116379604749273/",
-          "hot": "476.3万"
+          "hot": "476.5万"
         },
         {
           "index": 2,
           "title": "五年了，他还是坐上了这个位置…",
           "url": "https://www.bilibili.com/video/av116379336317732/",
-          "hot": "570.8万"
+          "hot": "571.5万"
         },
         {
           "index": 3,
           "title": "学生抓老师！校园躲猫猫大赛4！",
           "url": "https://www.bilibili.com/video/av116381198583028/",
-          "hot": "1469.2万"
+          "hot": "1469.7万"
         },
         {
           "index": 4,
           "title": "末地圆环太远？0.25秒瞬移！接力珍珠炮全图火力覆盖！",
           "url": "https://www.bilibili.com/video/av116381064499655/",
-          "hot": "309.2万"
+          "hot": "310.3万"
         },
         {
           "index": 5,
           "title": "网络热传生物鉴定 第59期",
           "url": "https://www.bilibili.com/video/av116374554810281/",
-          "hot": "254.2万"
+          "hot": "254.4万"
         },
         {
           "index": 6,
           "title": "双方选出了熟练度最高的英雄并开启了巅峰赛",
           "url": "https://www.bilibili.com/video/av116384235325427/",
-          "hot": "493.3万"
+          "hot": "494.3万"
         },
         {
           "index": 7,
           "title": "《百米自由搏击》",
           "url": "https://www.bilibili.com/video/av116372860307350/",
-          "hot": "889.5万"
+          "hot": "889.9万"
         },
         {
           "index": 8,
@@ -368,25 +368,25 @@
           "index": 9,
           "title": "我们喝醉之后，把自己录了下来...（1）",
           "url": "https://www.bilibili.com/video/av116381852896418/",
-          "hot": "201.9万"
+          "hot": "202.4万"
         },
         {
           "index": 10,
           "title": "天生鬼才 翻唱（星穹铁道）",
           "url": "https://www.bilibili.com/video/av116381064369593/",
-          "hot": "112.1万"
+          "hot": "112.3万"
         },
         {
           "index": 11,
           "title": "最后的30分钟，你愿怎样度过？",
           "url": "https://www.bilibili.com/video/av116381232142868/",
-          "hot": "198.5万"
+          "hot": "198.8万"
         },
         {
           "index": 12,
           "title": "变成美少女的师徒二人",
           "url": "https://www.bilibili.com/video/av116378212308181/",
-          "hot": "159.3万"
+          "hot": "159.4万"
         },
         {
           "index": 13,
@@ -398,43 +398,43 @@
           "index": 14,
           "title": "《明日方舟：终末地》核心章节「春晓时」版本PV",
           "url": "https://www.bilibili.com/video/av116384990234123/",
-          "hot": "381.1万"
+          "hot": "381.2万"
         },
         {
           "index": 15,
           "title": "原创动画《血腥玛丽》试播集",
           "url": "https://www.bilibili.com/video/av116382893153018/",
-          "hot": "103.6万"
+          "hot": "104.1万"
         },
         {
           "index": 16,
           "title": "《绝区零》希希芙角色展示 | 嫌疑人X的失责",
           "url": "https://www.bilibili.com/video/av116377994139130/",
-          "hot": "157.5万"
+          "hot": "157.8万"
         },
         {
           "index": 17,
           "title": "求了8个月终于加人 进来那一刻我人都傻了#程序员 #打工人 #人力资源 #牛马 #小公司",
           "url": "https://www.bilibili.com/video/av116375427220194/",
-          "hot": "213.1万"
+          "hot": "213.4万"
         },
         {
           "index": 18,
           "title": "闲鱼里为啥有人卖全家福的？",
           "url": "https://www.bilibili.com/video/av116384403033221/",
-          "hot": "453.8万"
+          "hot": "454.5万"
         },
         {
           "index": 19,
           "title": "西域战神2.0",
           "url": "https://www.bilibili.com/video/av116385510395131/",
-          "hot": "241.0万"
+          "hot": "241.8万"
         },
         {
           "index": 20,
           "title": "助人为乐",
           "url": "https://www.bilibili.com/video/av116379906804817/",
-          "hot": "305.2万"
+          "hot": "305.8万"
         },
         {
           "index": 21,
@@ -446,85 +446,85 @@
           "index": 22,
           "title": "机械飞升！小爱爆改米维斯？DIY人车家卸货流水线！",
           "url": "https://www.bilibili.com/video/av116378631735024/",
-          "hot": "359.4万"
+          "hot": "370.2万"
         },
         {
           "index": 23,
           "title": "选一条路，决定你接下来的旅途",
           "url": "https://www.bilibili.com/video/av116386265301587/",
-          "hot": "142.8万"
+          "hot": "144.8万"
         },
         {
           "index": 24,
           "title": "街头猜词挑战之哲学博士",
           "url": "https://www.bilibili.com/video/av116372726087899/",
-          "hot": "372.3万"
+          "hot": "372.5万"
         },
         {
           "index": 25,
           "title": "这个脑蚀有点洗脑啊",
           "url": "https://www.bilibili.com/video/av116374890354616/",
-          "hot": "97.4万"
+          "hot": "97.5万"
         },
         {
           "index": 26,
           "title": "你可能不认识我，但你一定听过我的音乐。光靠3秒前奏就能识曲的通关率只有1%吧？",
           "url": "https://www.bilibili.com/video/av116379789428394/",
-          "hot": "122.2万"
+          "hot": "122.3万"
         },
         {
           "index": 27,
           "title": "【洛克王国世界】焚绝：多拿一个棱镜球 命定花种全通关 ！",
           "url": "https://www.bilibili.com/video/av116377272714487/",
-          "hot": "138.0万"
+          "hot": "138.1万"
         },
         {
           "index": 28,
           "title": "特厨探店|全好评！全好吃！上海街边小馆到底多好吃—姐妹餐厅",
           "url": "https://www.bilibili.com/video/av116381819338904/",
-          "hot": "118.9万"
+          "hot": "119.0万"
         },
         {
           "index": 29,
           "title": "小阮篇第三期，没得选也逃不掉",
           "url": "https://www.bilibili.com/video/av116380057733974/",
-          "hot": "202.3万"
+          "hot": "202.6万"
         },
         {
           "index": 30,
           "title": "200元VS7000元!香港最便宜和全球第一酒店差别有多大?",
           "url": "https://www.bilibili.com/video/av116381450310771/",
-          "hot": "140.4万"
+          "hot": "140.8万"
         },
         {
           "index": 31,
           "title": "🐧凑鹅企智斗基拉🐧",
           "url": "https://www.bilibili.com/video/av116380141624720/",
-          "hot": "220.5万"
+          "hot": "220.6万"
         },
         {
           "index": 32,
           "title": "你不死我心难安啊！",
           "url": "https://www.bilibili.com/video/av116378933725747/",
-          "hot": "188.5万"
+          "hot": "188.6万"
         },
         {
           "index": 33,
           "title": "如何成为班级楚霸王",
           "url": "https://www.bilibili.com/video/av116373262961912/",
-          "hot": "233.8万"
+          "hot": "234.1万"
         },
         {
           "index": 34,
           "title": "王从天降，愤怒狰狞",
           "url": "https://www.bilibili.com/video/av116387087391530/",
-          "hot": "148.8万"
+          "hot": "150.4万"
         },
         {
           "index": 35,
           "title": "《装唐阴他一手》",
           "url": "https://www.bilibili.com/video/av116374470919349/",
-          "hot": "292.7万"
+          "hot": "292.9万"
         },
         {
           "index": 36,
@@ -536,85 +536,85 @@
           "index": 37,
           "title": "周深X王者荣耀世界《有你在的世界》MV上线",
           "url": "https://www.bilibili.com/video/av116378027824286/",
-          "hot": "257.3万"
+          "hot": "257.4万"
         },
         {
           "index": 38,
           "title": "新发型折叠刀",
           "url": "https://www.bilibili.com/video/av116381752231881/",
-          "hot": "278.6万"
+          "hot": "278.9万"
         },
         {
           "index": 39,
           "title": "《崩坏：星穹铁道》阿哈时刻：「斯科特」",
           "url": "https://www.bilibili.com/video/av116381685127749/",
-          "hot": "180.6万"
+          "hot": "180.8万"
         },
         {
           "index": 40,
           "title": "黑白色悬浮字，写《征明临兰亭》，我也来！",
           "url": "https://www.bilibili.com/video/av116379621596417/",
-          "hot": "272.4万"
+          "hot": "272.6万"
         },
         {
           "index": 41,
           "title": "欧洲黑帮乱不乱，阿尔巴尼亚人说了算？",
           "url": "https://www.bilibili.com/video/av116385426573028/",
-          "hot": "152.0万"
+          "hot": "153.7万"
         },
         {
           "index": 42,
           "title": "【脑洞绘】惊喜！",
           "url": "https://www.bilibili.com/video/av116385594212378/",
-          "hot": "206.5万"
+          "hot": "206.7万"
         },
         {
           "index": 43,
           "title": "小光教我打洗衣机，吸血鬼就应该打吸血鬼啦～",
           "url": "https://www.bilibili.com/video/av116366770178931/",
-          "hot": "124.3万"
+          "hot": "124.4万"
         },
         {
           "index": 44,
           "title": "《一半一半》练习室直拍一滴汗水掰八瓣中的一瓣🤧",
           "url": "https://www.bilibili.com/video/av116385174917513/",
-          "hot": "100.2万"
+          "hot": "100.8万"
         },
         {
           "index": 45,
           "title": "反乌托邦，但是Montagem Pitty",
           "url": "https://www.bilibili.com/video/av116383446860493/",
-          "hot": "59.2万"
+          "hot": "59.3万"
         },
         {
           "index": 46,
           "title": "《缉毒犬阿B跌宕起伏的狗生》",
           "url": "https://www.bilibili.com/video/av116383581016572/",
-          "hot": "216.2万"
+          "hot": "216.4万"
         },
         {
           "index": 47,
           "title": "《瓜剣士》",
           "url": "https://www.bilibili.com/video/av116381735457879/",
-          "hot": "120.4万"
+          "hot": "120.6万"
         },
         {
           "index": 48,
           "title": "影视飓风员工，摸鱼都去哪儿？",
           "url": "https://www.bilibili.com/video/av116389369090406/",
-          "hot": "190.0万"
+          "hot": "190.6万"
         },
         {
           "index": 49,
           "title": "一镜到底，模仿所有奥特曼的战吼",
           "url": "https://www.bilibili.com/video/av116384755354614/",
-          "hot": "129.8万"
+          "hot": "129.9万"
         },
         {
           "index": 50,
           "title": "这座商场里有100个异常！！",
           "url": "https://www.bilibili.com/video/av116384352704377/",
-          "hot": "148.3万"
+          "hot": "148.5万"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 29",
-      "update_time": "2026-04-13 06:48:58",
+      "update_time": "2026-04-13 07:20:53",
       "data": [
         {
           "index": 1,
