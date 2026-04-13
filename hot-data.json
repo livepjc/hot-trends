@@ -1,312 +1,312 @@
 {
   "success": true,
-  "update_time": "2026-04-13 10:24:21",
+  "update_time": "2026-04-13 13:25:59",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-13 10:24:20",
+      "update_time": "2026-04-13 13:25:59",
       "data": [
         {
           "index": 1,
           "title": "员工中了1500万彩票后直接离职",
           "url": "https://s.weibo.com/weibo?q=%E5%91%98%E5%B7%A5%E4%B8%AD%E4%BA%861500%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%90%8E%E7%9B%B4%E6%8E%A5%E7%A6%BB%E8%81%8C",
-          "hot": "119万"
+          "hot": "115万"
         },
         {
           "index": 2,
-          "title": "被老鼠咬10天后确诊鼠咬热",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC10%E5%A4%A9%E5%90%8E%E7%A1%AE%E8%AF%8A%E9%BC%A0%E5%92%AC%E7%83%AD",
-          "hot": "86万"
+          "title": "9岁男孩偷偷给爷爷带肉当地已介入",
+          "url": "https://s.weibo.com/weibo?q=9%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%81%B7%E7%BB%99%E7%88%B7%E7%88%B7%E5%B8%A6%E8%82%89%E5%BD%93%E5%9C%B0%E5%B7%B2%E4%BB%8B%E5%85%A5",
+          "hot": "82万"
         },
         {
           "index": 3,
           "title": "中国航天不断刷新宇宙级精彩",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%B8%8D%E6%96%AD%E5%88%B7%E6%96%B0%E5%AE%87%E5%AE%99%E7%BA%A7%E7%B2%BE%E5%BD%A9",
-          "hot": "68万"
+          "hot": "76万"
         },
         {
           "index": 4,
-          "title": "巧乐兹哈利波特打开快乐魔法入口",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%A7%E4%B9%90%E5%85%B9%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%89%93%E5%BC%80%E5%BF%AB%E4%B9%90%E9%AD%94%E6%B3%95%E5%85%A5%E5%8F%A3",
-          "hot": "55万"
+          "title": "陈赫 短剧",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E8%B5%AB+%E7%9F%AD%E5%89%A7",
+          "hot": "72万"
         },
         {
           "index": 5,
-          "title": "伊朗曝美方要均分霍尔木兹收益",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E6%9B%9D%E7%BE%8E%E6%96%B9%E8%A6%81%E5%9D%87%E5%88%86%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E7%9B%8A",
-          "hot": "53万"
+          "title": "美将封锁霍尔木兹海峡",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "hot": "58万"
         },
         {
           "index": 6,
-          "title": "老百姓看病应该多留个心眼",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E7%99%BE%E5%A7%93%E7%9C%8B%E7%97%85%E5%BA%94%E8%AF%A5%E5%A4%9A%E7%95%99%E4%B8%AA%E5%BF%83%E7%9C%BC",
-          "hot": "53万"
+          "title": "何猷君晒与何超蕸合照",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E6%99%92%E4%B8%8E%E4%BD%95%E8%B6%85%E8%95%B8%E5%90%88%E7%85%A7",
+          "hot": "51万"
         },
         {
           "index": 7,
-          "title": "梦龙广告 芭蕾舞鞋",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%A6%E9%BE%99%E5%B9%BF%E5%91%8A+%E8%8A%AD%E8%95%BE%E8%88%9E%E9%9E%8B",
-          "hot": "45万"
+          "title": "吉利i-HEV智擎混动",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%89%E5%88%A9i-HEV%E6%99%BA%E6%93%8E%E6%B7%B7%E5%8A%A8",
+          "hot": "49万"
         },
         {
           "index": 8,
-          "title": "京洛再无佳人 吴磊",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E6%B4%9B%E5%86%8D%E6%97%A0%E4%BD%B3%E4%BA%BA+%E5%90%B4%E7%A3%8A",
-          "hot": "38万"
+          "title": "女子单独坐过夜火车被乘警拉进群",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%8D%95%E7%8B%AC%E5%9D%90%E8%BF%87%E5%A4%9C%E7%81%AB%E8%BD%A6%E8%A2%AB%E4%B9%98%E8%AD%A6%E6%8B%89%E8%BF%9B%E7%BE%A4",
+          "hot": "39万"
         },
         {
           "index": 9,
-          "title": "北京野生动物园豚豚情绪稳定消灭杨絮",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%B1%9A%E8%B1%9A%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E6%B6%88%E7%81%AD%E6%9D%A8%E7%B5%AE",
-          "hot": "27万"
+          "title": "华为PuraXMax",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXMax",
+          "hot": "34万"
         },
         {
           "index": 10,
-          "title": "赵丽颖林更新楚乔传百指",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E6%A5%9A%E4%B9%94%E4%BC%A0%E7%99%BE%E6%8C%87",
-          "hot": "24万"
+          "title": "十日终焉防代拍",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B2%E4%BB%A3%E6%8B%8D",
+          "hot": "30万"
         },
         {
           "index": 11,
-          "title": "国际油价大幅上涨",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%B6%A8",
-          "hot": "24万"
+          "title": "超级巨星孙颖莎",
+          "url": "https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E5%B7%A8%E6%98%9F%E5%AD%99%E9%A2%96%E8%8E%8E",
+          "hot": "30万"
         },
         {
           "index": 12,
-          "title": "徐艺洋竟然和孙怡合作过",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E7%AB%9F%E7%84%B6%E5%92%8C%E5%AD%99%E6%80%A1%E5%90%88%E4%BD%9C%E8%BF%87",
-          "hot": "24万"
+          "title": "霍思燕最争气的是她自己",
+          "url": "https://s.weibo.com/weibo?q=%E9%9C%8D%E6%80%9D%E7%87%95%E6%9C%80%E4%BA%89%E6%B0%94%E7%9A%84%E6%98%AF%E5%A5%B9%E8%87%AA%E5%B7%B1",
+          "hot": "29万"
         },
         {
           "index": 13,
-          "title": "女子遭法官猥亵16分钟录音曝光",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E9%81%AD%E6%B3%95%E5%AE%98%E7%8C%A5%E4%BA%B516%E5%88%86%E9%92%9F%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89",
-          "hot": "24万"
+          "title": "灯花笑 田曦薇",
+          "url": "https://s.weibo.com/weibo?q=%E7%81%AF%E8%8A%B1%E7%AC%91+%E7%94%B0%E6%9B%A6%E8%96%87",
+          "hot": "28万"
         },
         {
           "index": 14,
-          "title": "张雪问了自己3个问题后辞职",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E9%97%AE%E4%BA%86%E8%87%AA%E5%B7%B13%E4%B8%AA%E9%97%AE%E9%A2%98%E5%90%8E%E8%BE%9E%E8%81%8C",
-          "hot": "23万"
+          "title": "61岁男子手术后在飞机上身亡",
+          "url": "https://s.weibo.com/weibo?q=61%E5%B2%81%E7%94%B7%E5%AD%90%E6%89%8B%E6%9C%AF%E5%90%8E%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%BA%AB%E4%BA%A1",
+          "hot": "28万"
         },
         {
           "index": 15,
-          "title": "演员郑雷去世",
-          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%83%91%E9%9B%B7%E5%8E%BB%E4%B8%96",
-          "hot": "23万"
+          "title": "孙红雷刘宇宁王玉雯主演铁证",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%B8%BB%E6%BC%94%E9%93%81%E8%AF%81",
+          "hot": "28万"
         },
         {
           "index": 16,
-          "title": "网传浪姐7一公个人喜爱度排名",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E6%B5%AA%E5%A7%907%E4%B8%80%E5%85%AC%E4%B8%AA%E4%BA%BA%E5%96%9C%E7%88%B1%E5%BA%A6%E6%8E%92%E5%90%8D",
-          "hot": "19万"
+          "title": "徐艺洋竟然和孙怡合作过",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E7%AB%9F%E7%84%B6%E5%92%8C%E5%AD%99%E6%80%A1%E5%90%88%E4%BD%9C%E8%BF%87",
+          "hot": "27万"
         },
         {
           "index": 17,
-          "title": "欧尔班承认败选",
-          "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E5%B0%94%E7%8F%AD%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89",
-          "hot": "17万"
+          "title": "伊朗曝美方要均分霍尔木兹收益",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E6%9B%9D%E7%BE%8E%E6%96%B9%E8%A6%81%E5%9D%87%E5%88%86%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E7%9B%8A",
+          "hot": "23万"
         },
         {
           "index": 18,
-          "title": "宋亚轩 没副歌",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9+%E6%B2%A1%E5%89%AF%E6%AD%8C",
-          "hot": "17万"
+          "title": "张凌赫逐玉庆功宴路透",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%80%90%E7%8E%89%E5%BA%86%E5%8A%9F%E5%AE%B4%E8%B7%AF%E9%80%8F",
+          "hot": "20万"
         },
         {
           "index": 19,
-          "title": "朴宝剑探班王安宇",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%B4%E5%AE%9D%E5%89%91%E6%8E%A2%E7%8F%AD%E7%8E%8B%E5%AE%89%E5%AE%87",
-          "hot": "16万"
+          "title": "在中国我们不说玩腻了分手吧",
+          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%88%91%E4%BB%AC%E4%B8%8D%E8%AF%B4%E7%8E%A9%E8%85%BB%E4%BA%86%E5%88%86%E6%89%8B%E5%90%A7",
+          "hot": "18万"
         },
         {
           "index": 20,
-          "title": "两车剐蹭藏族大哥坚持赔偿女子婉拒",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E8%BD%A6%E5%89%90%E8%B9%AD%E8%97%8F%E6%97%8F%E5%A4%A7%E5%93%A5%E5%9D%9A%E6%8C%81%E8%B5%94%E5%81%BF%E5%A5%B3%E5%AD%90%E5%A9%89%E6%8B%92",
-          "hot": "14万"
+          "title": "女子遭法官猥亵16分钟录音曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E9%81%AD%E6%B3%95%E5%AE%98%E7%8C%A5%E4%BA%B516%E5%88%86%E9%92%9F%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89",
+          "hot": "17万"
         },
         {
           "index": 21,
-          "title": "仙逆王林",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%99%E9%80%86%E7%8E%8B%E6%9E%97",
-          "hot": "14万"
+          "title": "被老鼠咬10天后确诊鼠咬热",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC10%E5%A4%A9%E5%90%8E%E7%A1%AE%E8%AF%8A%E9%BC%A0%E5%92%AC%E7%83%AD",
+          "hot": "16万"
         },
         {
           "index": 22,
-          "title": "女子连吃两天蓝莓胃里堵成石墙",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%90%83%E4%B8%A4%E5%A4%A9%E8%93%9D%E8%8E%93%E8%83%83%E9%87%8C%E5%A0%B5%E6%88%90%E7%9F%B3%E5%A2%99",
-          "hot": "13万"
+          "title": "kimi都这么大了",
+          "url": "https://s.weibo.com/weibo?q=kimi%E9%83%BD%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86",
+          "hot": "15万"
         },
         {
           "index": 23,
-          "title": "郑恺晒女儿全英文对话",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E6%99%92%E5%A5%B3%E5%84%BF%E5%85%A8%E8%8B%B1%E6%96%87%E5%AF%B9%E8%AF%9D",
-          "hot": "13万"
+          "title": "女子连吃两天蓝莓胃里堵成石墙",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%90%83%E4%B8%A4%E5%A4%A9%E8%93%9D%E8%8E%93%E8%83%83%E9%87%8C%E5%A0%B5%E6%88%90%E7%9F%B3%E5%A2%99",
+          "hot": "15万"
         },
         {
           "index": 24,
-          "title": "男子掉14颗牙剩下14颗也得全拔掉",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8E%8914%E9%A2%97%E7%89%99%E5%89%A9%E4%B8%8B14%E9%A2%97%E4%B9%9F%E5%BE%97%E5%85%A8%E6%8B%94%E6%8E%89",
-          "hot": "13万"
+          "title": "老百姓看病应该多留个心眼",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E7%99%BE%E5%A7%93%E7%9C%8B%E7%97%85%E5%BA%94%E8%AF%A5%E5%A4%9A%E7%95%99%E4%B8%AA%E5%BF%83%E7%9C%BC",
+          "hot": "15万"
         },
         {
           "index": 25,
-          "title": "伊朗公布驱离美军舰视频",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A7%86%E9%A2%91",
+          "title": "IU新剧首播收视率",
+          "url": "https://s.weibo.com/weibo?q=IU%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87",
           "hot": "13万"
         },
         {
           "index": 26,
-          "title": "高铁站工作人员回应站台全面禁烟",
-          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E7%AB%99%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E7%AB%99%E5%8F%B0%E5%85%A8%E9%9D%A2%E7%A6%81%E7%83%9F",
+          "title": "男子地铁上辱骂老年乘客又脏又臭",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E4%B8%8A%E8%BE%B1%E9%AA%82%E8%80%81%E5%B9%B4%E4%B9%98%E5%AE%A2%E5%8F%88%E8%84%8F%E5%8F%88%E8%87%AD",
           "hot": "12万"
         },
         {
           "index": 27,
-          "title": "IU新剧首播收视率",
-          "url": "https://s.weibo.com/weibo?q=IU%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87",
-          "hot": "12万"
-        },
-        {
-          "index": 28,
-          "title": "孙子怕爷爷去世每天偷偷带肉回家",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%AD%90%E6%80%95%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E6%AF%8F%E5%A4%A9%E5%81%B7%E5%81%B7%E5%B8%A6%E8%82%89%E5%9B%9E%E5%AE%B6",
+          "title": "时代少年团新歌",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C",
           "hot": "11万"
         },
         {
-          "index": 29,
-          "title": "短剧剧宣误入豪门少夫人聚会局",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%89%A7%E5%AE%A3%E8%AF%AF%E5%85%A5%E8%B1%AA%E9%97%A8%E5%B0%91%E5%A4%AB%E4%BA%BA%E8%81%9A%E4%BC%9A%E5%B1%80",
+          "index": 28,
+          "title": "男子掉14颗牙剩下14颗也得全拔掉",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8E%8914%E9%A2%97%E7%89%99%E5%89%A9%E4%B8%8B14%E9%A2%97%E4%B9%9F%E5%BE%97%E5%85%A8%E6%8B%94%E6%8E%89",
           "hot": "10万"
+        },
+        {
+          "index": 29,
+          "title": "合肥今年大乐透无人中1500万",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%88%E8%82%A5%E4%BB%8A%E5%B9%B4%E5%A4%A7%E4%B9%90%E9%80%8F%E6%97%A0%E4%BA%BA%E4%B8%AD1500%E4%B8%87",
+          "hot": "9万"
         },
         {
           "index": 30,
-          "title": "境外涉黄AI软件绕过监管流入国内",
-          "url": "https://s.weibo.com/weibo?q=%E5%A2%83%E5%A4%96%E6%B6%89%E9%BB%84AI%E8%BD%AF%E4%BB%B6%E7%BB%95%E8%BF%87%E7%9B%91%E7%AE%A1%E6%B5%81%E5%85%A5%E5%9B%BD%E5%86%85",
-          "hot": "10万"
+          "title": "伊朗民众眼中的美伊谈判",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4",
+          "hot": "9万"
         },
         {
           "index": 31,
-          "title": "官方回应为什么不能把杨柳树都砍了",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%8A%8A%E6%9D%A8%E6%9F%B3%E6%A0%91%E9%83%BD%E7%A0%8D%E4%BA%86",
-          "hot": "9万"
+          "title": "特朗普称今晚10点封锁伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%8A%E6%99%9A10%E7%82%B9%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97",
+          "hot": "8万"
         },
         {
           "index": 32,
-          "title": "女子戴美瞳十几年眼角膜长疙瘩",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%88%B4%E7%BE%8E%E7%9E%B3%E5%8D%81%E5%87%A0%E5%B9%B4%E7%9C%BC%E8%A7%92%E8%86%9C%E9%95%BF%E7%96%99%E7%98%A9",
-          "hot": "9万"
+          "title": "被央视曝光涉黄AI软件未下架",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B6%89%E9%BB%84AI%E8%BD%AF%E4%BB%B6%E6%9C%AA%E4%B8%8B%E6%9E%B6",
+          "hot": "8万"
         },
         {
           "index": 33,
-          "title": "在中国我们不说玩腻了分手吧",
-          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%88%91%E4%BB%AC%E4%B8%8D%E8%AF%B4%E7%8E%A9%E8%85%BB%E4%BA%86%E5%88%86%E6%89%8B%E5%90%A7",
-          "hot": "9万"
+          "title": "广州日报官宣时代少年团演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E6%97%A5%E6%8A%A5%E5%AE%98%E5%AE%A3%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "hot": "8万"
         },
         {
           "index": 34,
-          "title": "赵子琪硬刚浪姐",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E5%AD%90%E7%90%AA%E7%A1%AC%E5%88%9A%E6%B5%AA%E5%A7%90",
-          "hot": "9万"
+          "title": "现货黄金急跌原因",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E6%80%A5%E8%B7%8C%E5%8E%9F%E5%9B%A0",
+          "hot": "8万"
         },
         {
           "index": 35,
-          "title": "井柏然胡巴妈",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E8%83%A1%E5%B7%B4%E5%A6%88",
+          "title": "布里奇斯只打23秒延续出战纪录",
+          "url": "https://s.weibo.com/weibo?q=%E5%B8%83%E9%87%8C%E5%A5%87%E6%96%AF%E5%8F%AA%E6%89%9323%E7%A7%92%E5%BB%B6%E7%BB%AD%E5%87%BA%E6%88%98%E7%BA%AA%E5%BD%95",
           "hot": "8万"
         },
         {
           "index": 36,
-          "title": "5月1日起医疗回扣入刑",
-          "url": "https://s.weibo.com/weibo?q=5%E6%9C%881%E6%97%A5%E8%B5%B7%E5%8C%BB%E7%96%97%E5%9B%9E%E6%89%A3%E5%85%A5%E5%88%91",
-          "hot": "7万"
+          "title": "张雪谈妹妹拿买房钱支持自己创业",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%B0%88%E5%A6%B9%E5%A6%B9%E6%8B%BF%E4%B9%B0%E6%88%BF%E9%92%B1%E6%94%AF%E6%8C%81%E8%87%AA%E5%B7%B1%E5%88%9B%E4%B8%9A",
+          "hot": "8万"
         },
         {
           "index": 37,
-          "title": "刘雨鑫回应称暂不回广东砍鸡",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%A8%E9%91%AB%E5%9B%9E%E5%BA%94%E7%A7%B0%E6%9A%82%E4%B8%8D%E5%9B%9E%E5%B9%BF%E4%B8%9C%E7%A0%8D%E9%B8%A1",
-          "hot": "7万"
+          "title": "京洛再无佳人 吴磊",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E6%B4%9B%E5%86%8D%E6%97%A0%E4%BD%B3%E4%BA%BA+%E5%90%B4%E7%A3%8A",
+          "hot": "8万"
         },
         {
           "index": 38,
-          "title": "12306回应静音车厢售货不叫卖",
-          "url": "https://s.weibo.com/weibo?q=12306%E5%9B%9E%E5%BA%94%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E5%94%AE%E8%B4%A7%E4%B8%8D%E5%8F%AB%E5%8D%96",
-          "hot": "7万"
+          "title": "孙子怕爷爷去世每天偷偷带肉回家",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%AD%90%E6%80%95%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E6%AF%8F%E5%A4%A9%E5%81%B7%E5%81%B7%E5%B8%A6%E8%82%89%E5%9B%9E%E5%AE%B6",
+          "hot": "8万"
         },
         {
           "index": 39,
-          "title": "官方通报从云南拉11吨西瓜全坏",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BB%8E%E4%BA%91%E5%8D%97%E6%8B%8911%E5%90%A8%E8%A5%BF%E7%93%9C%E5%85%A8%E5%9D%8F",
+          "title": "境外涉黄AI软件绕过监管流入国内",
+          "url": "https://s.weibo.com/weibo?q=%E5%A2%83%E5%A4%96%E6%B6%89%E9%BB%84AI%E8%BD%AF%E4%BB%B6%E7%BB%95%E8%BF%87%E7%9B%91%E7%AE%A1%E6%B5%81%E5%85%A5%E5%9B%BD%E5%86%85",
           "hot": "7万"
         },
         {
           "index": 40,
-          "title": "伊朗总统称美伊谈判已毫无意义",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E5%B7%B2%E6%AF%AB%E6%97%A0%E6%84%8F%E4%B9%89",
+          "title": "NBA西部季后赛对阵出炉",
+          "url": "https://s.weibo.com/weibo?q=NBA%E8%A5%BF%E9%83%A8%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89",
           "hot": "7万"
         },
         {
           "index": 41,
-          "title": "谢霆锋的破洞牛仔裤能看到底裤",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%E7%9A%84%E7%A0%B4%E6%B4%9E%E7%89%9B%E4%BB%94%E8%A3%A4%E8%83%BD%E7%9C%8B%E5%88%B0%E5%BA%95%E8%A3%A4",
+          "title": "网传浪姐7一公个人喜爱度排名",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E6%B5%AA%E5%A7%907%E4%B8%80%E5%85%AC%E4%B8%AA%E4%BA%BA%E5%96%9C%E7%88%B1%E5%BA%A6%E6%8E%92%E5%90%8D",
           "hot": "7万"
         },
         {
           "index": 42,
-          "title": "小猫居然理解了影子",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%B1%85%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E5%BD%B1%E5%AD%90",
-          "hot": "6万"
+          "title": "赵丽颖林更新楚乔传百指",
+          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E6%A5%9A%E4%B9%94%E4%BC%A0%E7%99%BE%E6%8C%87",
+          "hot": "7万"
         },
         {
           "index": 43,
-          "title": "苍山洱海间的绝美丁达尔效应",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%8D%E5%B1%B1%E6%B4%B1%E6%B5%B7%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E4%B8%81%E8%BE%BE%E5%B0%94%E6%95%88%E5%BA%94",
-          "hot": "6万"
+          "title": "张雪问了自己3个问题后辞职",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E9%97%AE%E4%BA%86%E8%87%AA%E5%B7%B13%E4%B8%AA%E9%97%AE%E9%A2%98%E5%90%8E%E8%BE%9E%E8%81%8C",
+          "hot": "7万"
         },
         {
           "index": 44,
-          "title": "网友在健身房偶遇任嘉伦",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%9C%A8%E5%81%A5%E8%BA%AB%E6%88%BF%E5%81%B6%E9%81%87%E4%BB%BB%E5%98%89%E4%BC%A6",
-          "hot": "6万"
+          "title": "宋亚轩 没副歌",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9+%E6%B2%A1%E5%89%AF%E6%AD%8C",
+          "hot": "7万"
         },
         {
           "index": 45,
-          "title": "箱包女王破产后卖包子重启人生",
-          "url": "https://s.weibo.com/weibo?q=%E7%AE%B1%E5%8C%85%E5%A5%B3%E7%8E%8B%E7%A0%B4%E4%BA%A7%E5%90%8E%E5%8D%96%E5%8C%85%E5%AD%90%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F",
+          "title": "钢铁森林",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%A2%E9%93%81%E6%A3%AE%E6%9E%97",
           "hot": "6万"
         },
         {
           "index": 46,
-          "title": "每天做好这3件事能延寿近10年",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E5%81%9A%E5%A5%BD%E8%BF%993%E4%BB%B6%E4%BA%8B%E8%83%BD%E5%BB%B6%E5%AF%BF%E8%BF%9110%E5%B9%B4",
+          "title": "Daeny和Knight十指紧扣",
+          "url": "https://s.weibo.com/weibo?q=Daeny%E5%92%8CKnight%E5%8D%81%E6%8C%87%E7%B4%A7%E6%89%A3",
           "hot": "6万"
         },
         {
           "index": 47,
-          "title": "王石否认被抓",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9F%B3%E5%90%A6%E8%AE%A4%E8%A2%AB%E6%8A%93",
+          "title": "刘雨鑫回应称暂不回广东砍鸡",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%A8%E9%91%AB%E5%9B%9E%E5%BA%94%E7%A7%B0%E6%9A%82%E4%B8%8D%E5%9B%9E%E5%B9%BF%E4%B8%9C%E7%A0%8D%E9%B8%A1",
           "hot": "6万"
         },
         {
           "index": 48,
-          "title": "反复爱上井柏然",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%8D%E5%A4%8D%E7%88%B1%E4%B8%8A%E4%BA%95%E6%9F%8F%E7%84%B6",
-          "hot": "5万"
+          "title": "演员郑雷去世",
+          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%83%91%E9%9B%B7%E5%8E%BB%E4%B8%96",
+          "hot": "6万"
         },
         {
           "index": 49,
-          "title": "掘金vs马刺",
-          "url": "https://s.weibo.com/weibo?q=%E6%8E%98%E9%87%91vs%E9%A9%AC%E5%88%BA",
-          "hot": "5万"
+          "title": "直到爷爷掏出仨口琴",
+          "url": "https://s.weibo.com/weibo?q=%E7%9B%B4%E5%88%B0%E7%88%B7%E7%88%B7%E6%8E%8F%E5%87%BA%E4%BB%A8%E5%8F%A3%E7%90%B4",
+          "hot": "6万"
         },
         {
           "index": 50,
-          "title": "哩布哩布AI被曝生成涉黄违规视频",
-          "url": "https://s.weibo.com/weibo?q=%E5%93%A9%E5%B8%83%E5%93%A9%E5%B8%83AI%E8%A2%AB%E6%9B%9D%E7%94%9F%E6%88%90%E6%B6%89%E9%BB%84%E8%BF%9D%E8%A7%84%E8%A7%86%E9%A2%91",
-          "hot": "5万"
+          "title": "井柏然胡巴妈",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E8%83%A1%E5%B7%B4%E5%A6%88",
+          "hot": "6万"
         }
       ]
     },
@@ -314,307 +314,307 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-13 10:24:20",
+      "update_time": "2026-04-13 13:25:59",
       "data": [
         {
           "index": 1,
           "title": "《崩坏：星穹铁道》原创动画•概念PV——「死于午后」",
           "url": "https://www.bilibili.com/video/av116379604749273/",
-          "hot": "479.1万"
+          "hot": "482.8万"
         },
         {
           "index": 2,
           "title": "五年了，他还是坐上了这个位置…",
           "url": "https://www.bilibili.com/video/av116379336317732/",
-          "hot": "575.3万"
+          "hot": "583.5万"
         },
         {
           "index": 3,
           "title": "学生抓老师！校园躲猫猫大赛4！",
           "url": "https://www.bilibili.com/video/av116381198583028/",
-          "hot": "1477.2万"
+          "hot": "1508.8万"
         },
         {
           "index": 4,
           "title": "末地圆环太远？0.25秒瞬移！接力珍珠炮全图火力覆盖！",
           "url": "https://www.bilibili.com/video/av116381064499655/",
-          "hot": "318.9万"
+          "hot": "325.3万"
         },
         {
           "index": 5,
-          "title": "网络热传生物鉴定 第59期",
-          "url": "https://www.bilibili.com/video/av116374554810281/",
-          "hot": "256.3万"
+          "title": "双方选出了熟练度最高的英雄并开启了巅峰赛",
+          "url": "https://www.bilibili.com/video/av116384235325427/",
+          "hot": "509.3万"
         },
         {
           "index": 6,
-          "title": "双方选出了熟练度最高的英雄并开启了巅峰赛",
-          "url": "https://www.bilibili.com/video/av116384235325427/",
-          "hot": "499.1万"
+          "title": "我们喝醉之后，把自己录了下来...（1）",
+          "url": "https://www.bilibili.com/video/av116381852896418/",
+          "hot": "213.0万"
         },
         {
           "index": 7,
           "title": "【pvz拟人】我的植物大战僵尸拟人",
           "url": "https://www.bilibili.com/video/av116374521315454/",
-          "hot": "139.3万"
+          "hot": "140.1万"
         },
         {
           "index": 8,
-          "title": "我们喝醉之后，把自己录了下来...（1）",
-          "url": "https://www.bilibili.com/video/av116381852896418/",
-          "hot": "206.5万"
+          "title": "天生鬼才 翻唱（星穹铁道）",
+          "url": "https://www.bilibili.com/video/av116381064369593/",
+          "hot": "116.3万"
         },
         {
           "index": 9,
-          "title": "天生鬼才 翻唱（星穹铁道）",
-          "url": "https://www.bilibili.com/video/av116381064369593/",
-          "hot": "113.8万"
+          "title": "最后的30分钟，你愿怎样度过？",
+          "url": "https://www.bilibili.com/video/av116381232142868/",
+          "hot": "227.1万"
         },
         {
           "index": 10,
-          "title": "《百米自由搏击》",
-          "url": "https://www.bilibili.com/video/av116372860307350/",
-          "hot": "894.2万"
+          "title": "网络热传生物鉴定 第59期",
+          "url": "https://www.bilibili.com/video/av116374554810281/",
+          "hot": "259.0万"
         },
         {
           "index": 11,
-          "title": "最后的30分钟，你愿怎样度过？",
-          "url": "https://www.bilibili.com/video/av116381232142868/",
-          "hot": "215.6万"
+          "title": "《百米自由搏击》",
+          "url": "https://www.bilibili.com/video/av116372860307350/",
+          "hot": "900.6万"
         },
         {
           "index": 12,
-          "title": "变成美少女的师徒二人",
-          "url": "https://www.bilibili.com/video/av116378212308181/",
-          "hot": "162.2万"
+          "title": "评论区摄影大赛新一期锐评篇开启，欢迎投稿玻璃心慎重。",
+          "url": "https://www.bilibili.com/video/av116379118207703/",
+          "hot": "455.5万"
         },
         {
           "index": 13,
-          "title": "评论区摄影大赛新一期锐评篇开启，欢迎投稿玻璃心慎重。",
-          "url": "https://www.bilibili.com/video/av116379118207703/",
-          "hot": "454.9万"
+          "title": "《明日方舟：终末地》核心章节「春晓时」版本PV",
+          "url": "https://www.bilibili.com/video/av116384990234123/",
+          "hot": "387.9万"
         },
         {
           "index": 14,
-          "title": "《明日方舟：终末地》核心章节「春晓时」版本PV",
-          "url": "https://www.bilibili.com/video/av116384990234123/",
-          "hot": "383.2万"
+          "title": "原创动画《血腥玛丽》试播集",
+          "url": "https://www.bilibili.com/video/av116382893153018/",
+          "hot": "111.9万"
         },
         {
           "index": 15,
-          "title": "原创动画《血腥玛丽》试播集",
-          "url": "https://www.bilibili.com/video/av116382893153018/",
-          "hot": "108.0万"
+          "title": "变成美少女的师徒二人",
+          "url": "https://www.bilibili.com/video/av116378212308181/",
+          "hot": "165.7万"
         },
         {
           "index": 16,
-          "title": "《绝区零》希希芙角色展示 | 嫌疑人X的失责",
-          "url": "https://www.bilibili.com/video/av116377994139130/",
-          "hot": "160.7万"
+          "title": "选一条路，决定你接下来的旅途",
+          "url": "https://www.bilibili.com/video/av116386265301587/",
+          "hot": "173.2万"
         },
         {
           "index": 17,
-          "title": "求了8个月终于加人 进来那一刻我人都傻了#程序员 #打工人 #人力资源 #牛马 #小公司",
-          "url": "https://www.bilibili.com/video/av116375427220194/",
-          "hot": "215.9万"
+          "title": "西域战神2.0",
+          "url": "https://www.bilibili.com/video/av116385510395131/",
+          "hot": "253.5万"
         },
         {
           "index": 18,
-          "title": "西域战神2.0",
-          "url": "https://www.bilibili.com/video/av116385510395131/",
-          "hot": "247.4万"
+          "title": "闲鱼里为啥有人卖全家福的？",
+          "url": "https://www.bilibili.com/video/av116384403033221/",
+          "hot": "480.2万"
         },
         {
           "index": 19,
-          "title": "闲鱼里为啥有人卖全家福的？",
-          "url": "https://www.bilibili.com/video/av116384403033221/",
-          "hot": "457.6万"
+          "title": "求了8个月终于加人 进来那一刻我人都傻了#程序员 #打工人 #人力资源 #牛马 #小公司",
+          "url": "https://www.bilibili.com/video/av116375427220194/",
+          "hot": "219.9万"
         },
         {
           "index": 20,
-          "title": "助人为乐",
-          "url": "https://www.bilibili.com/video/av116379906804817/",
-          "hot": "309.0万"
+          "title": "《绝区零》希希芙角色展示 | 嫌疑人X的失责",
+          "url": "https://www.bilibili.com/video/av116377994139130/",
+          "hot": "163.5万"
         },
         {
           "index": 21,
-          "title": "选一条路，决定你接下来的旅途",
-          "url": "https://www.bilibili.com/video/av116386265301587/",
-          "hot": "158.3万"
+          "title": "助人为乐",
+          "url": "https://www.bilibili.com/video/av116379906804817/",
+          "hot": "315.5万"
         },
         {
           "index": 22,
           "title": "机械飞升！小爱爆改米维斯？DIY人车家卸货流水线！",
           "url": "https://www.bilibili.com/video/av116378631735024/",
-          "hot": "380.9万"
+          "hot": "391.0万"
         },
         {
           "index": 23,
-          "title": "真正的幸福是没有标准的",
-          "url": "https://www.bilibili.com/video/av116374286370568/",
-          "hot": "131.7万"
+          "title": "这个脑蚀有点洗脑啊",
+          "url": "https://www.bilibili.com/video/av116374890354616/",
+          "hot": "99.4万"
         },
         {
           "index": 24,
-          "title": "这个脑蚀有点洗脑啊",
-          "url": "https://www.bilibili.com/video/av116374890354616/",
-          "hot": "98.2万"
+          "title": "真正的幸福是没有标准的",
+          "url": "https://www.bilibili.com/video/av116374286370568/",
+          "hot": "132.2万"
         },
         {
           "index": 25,
-          "title": "你可能不认识我，但你一定听过我的音乐。光靠3秒前奏就能识曲的通关率只有1%吧？",
-          "url": "https://www.bilibili.com/video/av116379789428394/",
-          "hot": "122.8万"
+          "title": "特厨探店|全好评！全好吃！上海街边小馆到底多好吃—姐妹餐厅",
+          "url": "https://www.bilibili.com/video/av116381819338904/",
+          "hot": "122.2万"
         },
         {
           "index": 26,
-          "title": "特厨探店|全好评！全好吃！上海街边小馆到底多好吃—姐妹餐厅",
-          "url": "https://www.bilibili.com/video/av116381819338904/",
-          "hot": "119.9万"
+          "title": "你可能不认识我，但你一定听过我的音乐。光靠3秒前奏就能识曲的通关率只有1%吧？",
+          "url": "https://www.bilibili.com/video/av116379789428394/",
+          "hot": "123.5万"
         },
         {
           "index": 27,
-          "title": "街头猜词挑战之哲学博士",
-          "url": "https://www.bilibili.com/video/av116372726087899/",
-          "hot": "373.9万"
+          "title": "200元VS7000元!香港最便宜和全球第一酒店差别有多大?",
+          "url": "https://www.bilibili.com/video/av116381450310771/",
+          "hot": "151.0万"
         },
         {
           "index": 28,
           "title": "小阮篇第三期，没得选也逃不掉",
           "url": "https://www.bilibili.com/video/av116380057733974/",
-          "hot": "204.0万"
+          "hot": "206.5万"
         },
         {
           "index": 29,
-          "title": "200元VS7000元!香港最便宜和全球第一酒店差别有多大?",
-          "url": "https://www.bilibili.com/video/av116381450310771/",
-          "hot": "145.6万"
+          "title": "🐧凑鹅企智斗基拉🐧",
+          "url": "https://www.bilibili.com/video/av116380141624720/",
+          "hot": "223.1万"
         },
         {
           "index": 30,
-          "title": "【洛克王国世界】焚绝：多拿一个棱镜球 命定花种全通关 ！",
-          "url": "https://www.bilibili.com/video/av116377272714487/",
-          "hot": "139.2万"
+          "title": "如何成为班级楚霸王",
+          "url": "https://www.bilibili.com/video/av116373262961912/",
+          "hot": "236.6万"
         },
         {
           "index": 31,
-          "title": "🐧凑鹅企智斗基拉🐧",
-          "url": "https://www.bilibili.com/video/av116380141624720/",
-          "hot": "221.8万"
+          "title": "你不死我心难安啊！",
+          "url": "https://www.bilibili.com/video/av116378933725747/",
+          "hot": "189.0万"
         },
         {
           "index": 32,
-          "title": "你不死我心难安啊！",
-          "url": "https://www.bilibili.com/video/av116378933725747/",
-          "hot": "188.8万"
+          "title": "欧洲黑帮乱不乱，阿尔巴尼亚人说了算？",
+          "url": "https://www.bilibili.com/video/av116385426573028/",
+          "hot": "169.9万"
         },
         {
           "index": 33,
-          "title": "如何成为班级楚霸王",
-          "url": "https://www.bilibili.com/video/av116373262961912/",
-          "hot": "234.8万"
+          "title": "黑白色悬浮字，写《征明临兰亭》，我也来！",
+          "url": "https://www.bilibili.com/video/av116379621596417/",
+          "hot": "281.1万"
         },
         {
           "index": 34,
-          "title": "欧洲黑帮乱不乱，阿尔巴尼亚人说了算？",
-          "url": "https://www.bilibili.com/video/av116385426573028/",
-          "hot": "164.1万"
+          "title": "新发型折叠刀",
+          "url": "https://www.bilibili.com/video/av116381752231881/",
+          "hot": "284.6万"
         },
         {
           "index": 35,
-          "title": "一般完美翻唱《Baby》rap部分",
-          "url": "https://www.bilibili.com/video/av116374705805549/",
-          "hot": "171.2万"
+          "title": "《崩坏：星穹铁道》阿哈时刻：「斯科特」",
+          "url": "https://www.bilibili.com/video/av116381685127749/",
+          "hot": "184.4万"
         },
         {
           "index": 36,
-          "title": "周深X王者荣耀世界《有你在的世界》MV上线",
-          "url": "https://www.bilibili.com/video/av116378027824286/",
-          "hot": "257.6万"
+          "title": "【脑洞绘】惊喜！",
+          "url": "https://www.bilibili.com/video/av116385594212378/",
+          "hot": "210.2万"
         },
         {
           "index": 37,
-          "title": "新发型折叠刀",
-          "url": "https://www.bilibili.com/video/av116381752231881/",
-          "hot": "281.2万"
+          "title": "街头猜词挑战之哲学博士",
+          "url": "https://www.bilibili.com/video/av116372726087899/",
+          "hot": "375.7万"
         },
         {
           "index": 38,
-          "title": "《崩坏：星穹铁道》阿哈时刻：「斯科特」",
-          "url": "https://www.bilibili.com/video/av116381685127749/",
-          "hot": "182.5万"
+          "title": "【洛克王国世界】焚绝：多拿一个棱镜球 命定花种全通关 ！",
+          "url": "https://www.bilibili.com/video/av116377272714487/",
+          "hot": "140.1万"
         },
         {
           "index": 39,
-          "title": "黑白色悬浮字，写《征明临兰亭》，我也来！",
-          "url": "https://www.bilibili.com/video/av116379621596417/",
-          "hot": "275.8万"
+          "title": "影视飓风员工，摸鱼都去哪儿？",
+          "url": "https://www.bilibili.com/video/av116389369090406/",
+          "hot": "225.4万"
         },
         {
           "index": 40,
-          "title": "【脑洞绘】惊喜！",
-          "url": "https://www.bilibili.com/video/av116385594212378/",
-          "hot": "208.3万"
+          "title": "《瓜剣士》",
+          "url": "https://www.bilibili.com/video/av116381735457879/",
+          "hot": "127.2万"
         },
         {
           "index": 41,
-          "title": "《装唐阴他一手》",
-          "url": "https://www.bilibili.com/video/av116374470919349/",
-          "hot": "294.4万"
+          "title": "反乌托邦，但是Montagem Pitty",
+          "url": "https://www.bilibili.com/video/av116383446860493/",
+          "hot": "60.6万"
         },
         {
           "index": 42,
-          "title": "小光教我打洗衣机，吸血鬼就应该打吸血鬼啦～",
-          "url": "https://www.bilibili.com/video/av116366770178931/",
-          "hot": "125.4万"
+          "title": "《缉毒犬阿B跌宕起伏的狗生》",
+          "url": "https://www.bilibili.com/video/av116383581016572/",
+          "hot": "222.8万"
         },
         {
           "index": 43,
-          "title": "反乌托邦，但是Montagem Pitty",
-          "url": "https://www.bilibili.com/video/av116383446860493/",
-          "hot": "59.8万"
+          "title": "小光教我打洗衣机，吸血鬼就应该打吸血鬼啦～",
+          "url": "https://www.bilibili.com/video/av116366770178931/",
+          "hot": "126.7万"
         },
         {
           "index": 44,
-          "title": "《瓜剣士》",
-          "url": "https://www.bilibili.com/video/av116381735457879/",
-          "hot": "123.5万"
+          "title": "《一半一半》练习室直拍一滴汗水掰八瓣中的一瓣🤧",
+          "url": "https://www.bilibili.com/video/av116385174917513/",
+          "hot": "111.6万"
         },
         {
           "index": 45,
-          "title": "《缉毒犬阿B跌宕起伏的狗生》",
-          "url": "https://www.bilibili.com/video/av116383581016572/",
-          "hot": "218.6万"
+          "title": "《装唐阴他一手》",
+          "url": "https://www.bilibili.com/video/av116374470919349/",
+          "hot": "296.9万"
         },
         {
           "index": 46,
-          "title": "《一半一半》练习室直拍一滴汗水掰八瓣中的一瓣🤧",
-          "url": "https://www.bilibili.com/video/av116385174917513/",
-          "hot": "107.1万"
+          "title": "一般完美翻唱《Baby》rap部分",
+          "url": "https://www.bilibili.com/video/av116374705805549/",
+          "hot": "172.2万"
         },
         {
           "index": 47,
-          "title": "影视飓风员工，摸鱼都去哪儿？",
-          "url": "https://www.bilibili.com/video/av116389369090406/",
-          "hot": "199.1万"
+          "title": "周深X王者荣耀世界《有你在的世界》MV上线",
+          "url": "https://www.bilibili.com/video/av116378027824286/",
+          "hot": "258.2万"
         },
         {
           "index": 48,
           "title": "这座商场里有100个异常！！",
           "url": "https://www.bilibili.com/video/av116384352704377/",
-          "hot": "151.2万"
+          "hot": "156.7万"
         },
         {
           "index": 49,
           "title": "一镜到底，模仿所有奥特曼的战吼",
           "url": "https://www.bilibili.com/video/av116384755354614/",
-          "hot": "131.0万"
+          "hot": "132.6万"
         },
         {
           "index": 50,
-          "title": "全赢时代：安理会激辩霍尔木兹，中俄2026首用否决权",
-          "url": "https://www.bilibili.com/video/av116378329684926/",
-          "hot": "190.8万"
+          "title": "评分9.3！孤独和迷茫的时候，不妨看看这部《异国日记》如何给出回答【瓶子君152】",
+          "url": "https://www.bilibili.com/video/av116384990235348/",
+          "hot": "84.0万"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 29",
-      "update_time": "2026-04-13 10:24:21",
+      "update_time": "2026-04-13 13:25:59",
       "data": [
         {
           "index": 1,
