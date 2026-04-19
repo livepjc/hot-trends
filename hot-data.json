@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-20 04:36:53",
+  "update_time": "2026-04-20 05:06:23",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-20 04:36:52",
+      "update_time": "2026-04-20 05:06:22",
       "data": [
         {
           "index": 1,
@@ -314,79 +314,79 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-20 04:36:53",
+      "update_time": "2026-04-20 05:06:22",
       "data": [
         {
           "index": 1,
           "title": "口技表演《三打白骨精》",
           "url": "https://www.bilibili.com/video/av116420239170521/",
-          "hot": "561.3万"
+          "hot": "561.7万"
         },
         {
           "index": 2,
           "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」",
           "url": "https://www.bilibili.com/video/av116426614573585/",
-          "hot": "393.0万"
+          "hot": "393.9万"
         },
         {
           "index": 3,
           "title": "郝 哥 不 在",
           "url": "https://www.bilibili.com/video/av116413696120273/",
-          "hot": "386.5万"
+          "hot": "386.8万"
         },
         {
           "index": 4,
           "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经",
           "url": "https://www.bilibili.com/video/av116417420658587/",
-          "hot": "794.7万"
+          "hot": "795.7万"
         },
         {
           "index": 5,
           "title": "［meme］豌豆公主",
           "url": "https://www.bilibili.com/video/av116422202104475/",
-          "hot": "228.2万"
+          "hot": "228.3万"
         },
         {
           "index": 6,
           "title": "狡兔屋老大希希芙",
           "url": "https://www.bilibili.com/video/av116419601632152/",
-          "hot": "182.3万"
+          "hot": "182.4万"
         },
         {
           "index": 7,
           "title": "终于来了！大疆Pocket 4上手",
           "url": "https://www.bilibili.com/video/av116413612234146/",
-          "hot": "426.4万"
+          "hot": "426.5万"
         },
         {
           "index": 8,
           "title": "破产大王如何搞发明？【小约翰】",
           "url": "https://www.bilibili.com/video/av116413696056588/",
-          "hot": "251.3万"
+          "hot": "251.5万"
         },
         {
           "index": 9,
           "title": "《非法组队》",
           "url": "https://www.bilibili.com/video/av116423913376764/",
-          "hot": "224.8万"
+          "hot": "224.9万"
         },
         {
           "index": 10,
           "title": "\"每次生日许的愿 其实都与你有关\"2.0",
           "url": "https://www.bilibili.com/video/av116427369485492/",
-          "hot": "265.9万"
+          "hot": "266.5万"
         },
         {
           "index": 11,
           "title": "疑似三打白骨精现场真实画面流出",
           "url": "https://www.bilibili.com/video/av116424668416698/",
-          "hot": "218.2万"
+          "hot": "218.4万"
         },
         {
           "index": 12,
           "title": "学了三天特效做出来的昔涟技能动画",
           "url": "https://www.bilibili.com/video/av116420054685479/",
-          "hot": "234.2万"
+          "hot": "234.3万"
         },
         {
           "index": 13,
@@ -398,19 +398,19 @@
           "index": 14,
           "title": "当你穿进老钱班22",
           "url": "https://www.bilibili.com/video/av116426144745360/",
-          "hot": "302.3万"
+          "hot": "302.6万"
         },
         {
           "index": 15,
           "title": "和李现，攀登人生第一座雪山",
           "url": "https://www.bilibili.com/video/av116405642987196/",
-          "hot": "358.4万"
+          "hot": "358.5万"
         },
         {
           "index": 16,
           "title": "《异环》公测PV丨Play on！",
           "url": "https://www.bilibili.com/video/av116409149492421/",
-          "hot": "550.7万"
+          "hot": "551.3万"
         },
         {
           "index": 17,
@@ -422,13 +422,13 @@
           "index": 18,
           "title": "【终末地】1.2版本最好抄毕业基建！赫铜重息壤一键毕业！",
           "url": "https://www.bilibili.com/video/av116418729350955/",
-          "hot": "129.0万"
+          "hot": "129.1万"
         },
         {
           "index": 19,
           "title": "全明星登场无限城！无惨；你们都是什么柱？！",
           "url": "https://www.bilibili.com/video/av116421329751265/",
-          "hot": "168.4万"
+          "hot": "168.8万"
         },
         {
           "index": 20,
@@ -440,7 +440,7 @@
           "index": 21,
           "title": "顺手的事",
           "url": "https://www.bilibili.com/video/av116418578287359/",
-          "hot": "260.1万"
+          "hot": "260.2万"
         },
         {
           "index": 22,
@@ -452,31 +452,31 @@
           "index": 23,
           "title": "贾斯汀比伯《Baby》，但是印度风格",
           "url": "https://www.bilibili.com/video/av116413175958671/",
-          "hot": "283.9万"
+          "hot": "284.1万"
         },
         {
           "index": 24,
           "title": "刘巳道重拍《哭声》：怀疑即有罪，神明皆恶鬼，万般抉择，皆赴既定终局  /  上集",
           "url": "https://www.bilibili.com/video/av116428057347590/",
-          "hot": "84.2万"
+          "hot": "84.8万"
         },
         {
           "index": 25,
           "title": "语文老师看到都释怀了",
           "url": "https://www.bilibili.com/video/av116423577831360/",
-          "hot": "156.3万"
+          "hot": "156.4万"
         },
         {
           "index": 26,
           "title": "成为高启强第一步：卖水产",
           "url": "https://www.bilibili.com/video/av116420155349654/",
-          "hot": "101.7万"
+          "hot": "101.9万"
         },
         {
           "index": 27,
           "title": "《生鱼忧患 死鱼安乐》",
           "url": "https://www.bilibili.com/video/av116421631678274/",
-          "hot": "363.1万"
+          "hot": "363.3万"
         },
         {
           "index": 28,
@@ -488,19 +488,19 @@
           "index": 29,
           "title": "我女儿还有七分钟放学",
           "url": "https://www.bilibili.com/video/av116414031599029/",
-          "hot": "138.4万"
+          "hot": "138.5万"
         },
         {
           "index": 30,
           "title": "“什么叫惊喜”？",
           "url": "https://www.bilibili.com/video/av116426094418497/",
-          "hot": "243.5万"
+          "hot": "243.7万"
         },
         {
           "index": 31,
           "title": "在ai盛行的时代老艺术家还在坚持手搓",
           "url": "https://www.bilibili.com/video/av116419702295117/",
-          "hot": "139.3万"
+          "hot": "139.4万"
         },
         {
           "index": 32,
@@ -512,7 +512,7 @@
           "index": 33,
           "title": "【何同学】为了随地大小坐，我们做了这个…",
           "url": "https://www.bilibili.com/video/av116424483799241/",
-          "hot": "254.7万"
+          "hot": "254.8万"
         },
         {
           "index": 34,
@@ -530,55 +530,55 @@
           "index": 36,
           "title": "教官和幼儿园小朋友互动，剪刀石头布得糖果。网友：这次遇到对手了！",
           "url": "https://www.bilibili.com/video/av116419383656688/",
-          "hot": "392.4万"
+          "hot": "392.6万"
         },
         {
           "index": 37,
           "title": "【终末地动画】这武陵的天终究还是黑了啊",
           "url": "https://www.bilibili.com/video/av116418477557745/",
-          "hot": "164.5万"
+          "hot": "164.6万"
         },
         {
           "index": 38,
           "title": "大学里的水课老师belike",
           "url": "https://www.bilibili.com/video/av116413914158276/",
-          "hot": "313.2万"
+          "hot": "313.3万"
         },
         {
           "index": 39,
           "title": "\"接下来奔赴战场的是...\"",
           "url": "https://www.bilibili.com/video/av116413176086645/",
-          "hot": "135.3万"
+          "hot": "135.4万"
         },
         {
           "index": 40,
           "title": "点外卖的凑单方式：",
           "url": "https://www.bilibili.com/video/av116426094417197/",
-          "hot": "210.6万"
+          "hot": "211.0万"
         },
         {
           "index": 41,
           "title": "加藤去腾冲",
           "url": "https://www.bilibili.com/video/av116418108460183/",
-          "hot": "135.9万"
+          "hot": "136.0万"
         },
         {
           "index": 42,
           "title": "核废水淹没陆地，在海上生存1000天！",
           "url": "https://www.bilibili.com/video/av116421631678523/",
-          "hot": "73.4万"
+          "hot": "73.5万"
         },
         {
           "index": 43,
           "title": "《重返未来：1999》三周年特别版本·3.7版本PV：他者的悲哀",
           "url": "https://www.bilibili.com/video/av116417739361530/",
-          "hot": "246.9万"
+          "hot": "247.2万"
         },
         {
           "index": 44,
           "title": "第一次参加泼水节，我被泼晕了...",
           "url": "https://www.bilibili.com/video/av116419668745675/",
-          "hot": "206.7万"
+          "hot": "207.8万"
         },
         {
           "index": 45,
@@ -590,7 +590,7 @@
           "index": 46,
           "title": "在美国，我们不说“苦中作乐”，我们说...",
           "url": "https://www.bilibili.com/video/av116424148325657/",
-          "hot": "231.5万"
+          "hot": "231.7万"
         },
         {
           "index": 47,
@@ -602,13 +602,13 @@
           "index": 48,
           "title": "💃杰哥不要，但是音乐剧💃",
           "url": "https://www.bilibili.com/video/av116417135379630/",
-          "hot": "83.9万"
+          "hot": "84.0万"
         },
         {
           "index": 49,
           "title": "令猫恼火",
           "url": "https://www.bilibili.com/video/av116414585247799/",
-          "hot": "111.6万"
+          "hot": "111.7万"
         },
         {
           "index": 50,
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 28",
-      "update_time": "2026-04-20 04:36:53",
+      "update_time": "2026-04-20 05:06:23",
       "data": [
         {
           "index": 1,
