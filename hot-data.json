@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-23 02:46:49",
+  "update_time": "2026-04-23 03:54:33",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-23 02:46:48",
+      "update_time": "2026-04-23 03:54:33",
       "data": [
         {
           "index": 1,
@@ -314,109 +314,109 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-23 02:46:49",
+      "update_time": "2026-04-23 03:54:33",
       "data": [
         {
           "index": 1,
           "title": "《崩坏：星穹铁道》动画短片：「这游戏还能不能玩了？」",
           "url": "https://www.bilibili.com/video/av116436060078332/",
-          "hot": "399.1万"
+          "hot": "399.5万"
         },
         {
           "index": 2,
           "title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
           "url": "https://www.bilibili.com/video/av116436815055519/",
-          "hot": "151.0万"
+          "hot": "151.5万"
         },
         {
           "index": 3,
           "title": "见面5秒开始战斗",
           "url": "https://www.bilibili.com/video/av116432050325320/",
-          "hot": "352.6万"
+          "hot": "352.9万"
         },
         {
           "index": 4,
           "title": "洛天依 原创《告死鸟》",
           "url": "https://www.bilibili.com/video/av116436378916947/",
-          "hot": "88.4万"
+          "hot": "88.7万"
         },
         {
           "index": 5,
           "title": "美国伊朗真乃卧龙凤雏",
           "url": "https://www.bilibili.com/video/av116440338336617/",
-          "hot": "243.4万"
+          "hot": "244.2万"
         },
         {
           "index": 6,
           "title": "重庆|如画一般",
           "url": "https://www.bilibili.com/video/av116430540380745/",
-          "hot": "307.8万"
+          "hot": "308.1万"
         },
         {
           "index": 7,
           "title": "口技表演《三打白骨精》",
           "url": "https://www.bilibili.com/video/av116420239170521/",
-          "hot": "771.2万"
+          "hot": "772.0万"
         },
         {
           "index": 8,
           "title": "“至此，神性已成！！！”",
           "url": "https://www.bilibili.com/video/av116435556761634/",
-          "hot": "254.1万"
+          "hot": "254.6万"
         },
         {
           "index": 9,
           "title": "我这辈子最爱的，是戴着头盔的你",
           "url": "https://www.bilibili.com/video/av116435690984673/",
-          "hot": "265.5万"
+          "hot": "265.8万"
         },
         {
           "index": 10,
-          "title": "二舅彻底退场！",
-          "url": "https://www.bilibili.com/video/av116434868897666/",
-          "hot": "110.9万"
+          "title": "唱着山歌来买瓜",
+          "url": "https://www.bilibili.com/video/av116446730586850/",
+          "hot": "83.2万"
         },
         {
           "index": 11,
-          "title": "曾经在不同地方逛地下商场的感觉一下子就涌上心头了不？哈哈哈 说出你的经历！",
-          "url": "https://www.bilibili.com/video/av116442284432878/",
-          "hot": "332.3万"
+          "title": "二舅彻底退场！",
+          "url": "https://www.bilibili.com/video/av116434868897666/",
+          "hot": "111.0万"
         },
         {
           "index": 12,
-          "title": "刘巳道重拍《哭声》：怀疑即有罪，神明皆恶鬼，万般抉择，皆赴既定终局  /  上集",
-          "url": "https://www.bilibili.com/video/av116428057347590/",
-          "hot": "230.9万"
+          "title": "曾经在不同地方逛地下商场的感觉一下子就涌上心头了不？哈哈哈 说出你的经历！",
+          "url": "https://www.bilibili.com/video/av116442284432878/",
+          "hot": "333.6万"
         },
         {
           "index": 13,
-          "title": "数学这东西，还得跟你田老师学！",
-          "url": "https://www.bilibili.com/video/av116435271551495/",
-          "hot": "243.1万"
+          "title": "刘巳道重拍《哭声》：怀疑即有罪，神明皆恶鬼，万般抉择，皆赴既定终局  /  上集",
+          "url": "https://www.bilibili.com/video/av116428057347590/",
+          "hot": "231.6万"
         },
         {
           "index": 14,
-          "title": "【萌黄一槽】志村团藏[漂泊寻者]全技能爆料！这次他做了“十”手准备……",
-          "url": "https://www.bilibili.com/video/av116436546754607/",
-          "hot": "211.5万"
+          "title": "数学这东西，还得跟你田老师学！",
+          "url": "https://www.bilibili.com/video/av116435271551495/",
+          "hot": "243.4万"
         },
         {
           "index": 15,
-          "title": "唱着山歌来买瓜",
-          "url": "https://www.bilibili.com/video/av116446730586850/",
-          "hot": "78.7万"
+          "title": "【萌黄一槽】志村团藏[漂泊寻者]全技能爆料！这次他做了“十”手准备……",
+          "url": "https://www.bilibili.com/video/av116436546754607/",
+          "hot": "211.6万"
         },
         {
           "index": 16,
           "title": "《无限流大爷》",
           "url": "https://www.bilibili.com/video/av116433426058131/",
-          "hot": "273.8万"
+          "hot": "274.0万"
         },
         {
           "index": 17,
           "title": "人类史上第一次买瓜",
           "url": "https://www.bilibili.com/video/av116438325009024/",
-          "hot": "278.1万"
+          "hot": "278.9万"
         },
         {
           "index": 18,
@@ -428,193 +428,193 @@
           "index": 19,
           "title": "庄方宜：你看又急",
           "url": "https://www.bilibili.com/video/av116435372280806/",
-          "hot": "126.4万"
+          "hot": "126.6万"
         },
         {
           "index": 20,
           "title": "🐧hey！二次元躲猫猫大赛！🐧",
           "url": "https://www.bilibili.com/video/av116438341847913/",
-          "hot": "135.9万"
+          "hot": "136.0万"
         },
         {
           "index": 21,
           "title": "当bro以为自己很有影响力时",
           "url": "https://www.bilibili.com/video/av116442569703582/",
-          "hot": "215.5万"
+          "hot": "216.7万"
         },
         {
           "index": 22,
-          "title": "如果你不会当父母，那我的建议是别生",
-          "url": "https://www.bilibili.com/video/av116431228240601/",
-          "hot": "105.3万"
+          "title": "酸！辣！鲜！香！这是刻进贵州人DNA里的美味密码",
+          "url": "https://www.bilibili.com/video/av116442234160219/",
+          "hot": "133.9万"
         },
         {
           "index": 23,
-          "title": "酸！辣！鲜！香！这是刻进贵州人DNA里的美味密码",
-          "url": "https://www.bilibili.com/video/av116442234160219/",
-          "hot": "133.5万"
+          "title": "快乐日常！！",
+          "url": "https://www.bilibili.com/video/av116440690660407/",
+          "hot": "71.8万"
         },
         {
           "index": 24,
-          "title": "快乐日常！！",
-          "url": "https://www.bilibili.com/video/av116440690660407/",
-          "hot": "71.6万"
+          "title": "如果你不会当父母，那我的建议是别生",
+          "url": "https://www.bilibili.com/video/av116431228240601/",
+          "hot": "105.5万"
         },
         {
           "index": 25,
           "title": "重生之大坝老鼠当总裁",
           "url": "https://www.bilibili.com/video/av116432436206148/",
-          "hot": "172.9万"
+          "hot": "173.0万"
         },
         {
           "index": 26,
           "title": "5分钟看完不结婚的一生，到底是什么样子？—自制AI短片",
           "url": "https://www.bilibili.com/video/av116424517358667/",
-          "hot": "160.8万"
+          "hot": "161.0万"
         },
         {
           "index": 27,
-          "title": "青年大学习初入社会学校不教，但你要会的53个技能",
-          "url": "https://www.bilibili.com/video/av116417638697766/",
-          "hot": "58.5万"
-        },
-        {
-          "index": 28,
           "title": "不 死 人 买 瓜",
           "url": "https://www.bilibili.com/video/av116431580562986/",
           "hot": "74.4万"
         },
         {
+          "index": 28,
+          "title": "青年大学习初入社会学校不教，但你要会的53个技能",
+          "url": "https://www.bilibili.com/video/av116417638697766/",
+          "hot": "58.7万"
+        },
+        {
           "index": 29,
-          "title": "\"每次生日许的愿 其实都与你有关\"2.0",
-          "url": "https://www.bilibili.com/video/av116427369485492/",
-          "hot": "390.3万"
+          "title": "沙鹰转枪灭队，豪到你了吗《沙鹰颗秒21.0》",
+          "url": "https://www.bilibili.com/video/av116436865386146/",
+          "hot": "213.8万"
         },
         {
           "index": 30,
-          "title": "沙鹰转枪灭队，豪到你了吗《沙鹰颗秒21.0》",
-          "url": "https://www.bilibili.com/video/av116436865386146/",
-          "hot": "213.5万"
+          "title": "《异环》娜娜莉角色PV丨心有猛虎",
+          "url": "https://www.bilibili.com/video/av116436160742545/",
+          "hot": "361.4万"
         },
         {
           "index": 31,
-          "title": "《异环》娜娜莉角色PV丨心有猛虎",
-          "url": "https://www.bilibili.com/video/av116436160742545/",
-          "hot": "360.8万"
+          "title": "\"每次生日许的愿 其实都与你有关\"2.0",
+          "url": "https://www.bilibili.com/video/av116427369485492/",
+          "hot": "390.5万"
         },
         {
           "index": 32,
-          "title": "老实了，能不能送我回去",
-          "url": "https://www.bilibili.com/video/av116430741700850/",
-          "hot": "386.2万"
+          "title": "我要修改这个结局！",
+          "url": "https://www.bilibili.com/video/av116435858883216/",
+          "hot": "154.4万"
         },
         {
           "index": 33,
-          "title": "我要修改这个结局！",
-          "url": "https://www.bilibili.com/video/av116435858883216/",
-          "hot": "154.1万"
+          "title": "人，时代大变了",
+          "url": "https://www.bilibili.com/video/av116430573999463/",
+          "hot": "162.5万"
         },
         {
           "index": 34,
+          "title": "有人说话叫你笑，有人说话叫你跳！",
+          "url": "https://www.bilibili.com/video/av116435774932562/",
+          "hot": "158.8万"
+        },
+        {
+          "index": 35,
+          "title": "老实了，能不能送我回去",
+          "url": "https://www.bilibili.com/video/av116430741700850/",
+          "hot": "386.7万"
+        },
+        {
+          "index": 36,
           "title": "《明日方舟：终末地》过场动画 - 却海",
           "url": "https://www.bilibili.com/video/av116419886907967/",
           "hot": "333.1万"
         },
         {
-          "index": 35,
-          "title": "人，时代大变了",
-          "url": "https://www.bilibili.com/video/av116430573999463/",
-          "hot": "162.2万"
-        },
-        {
-          "index": 36,
-          "title": "当被问到每天在学校都干些啥时......",
-          "url": "https://www.bilibili.com/video/av116429365969931/",
-          "hot": "157.8万"
-        },
-        {
           "index": 37,
-          "title": "有人说话叫你笑，有人说话叫你跳！",
-          "url": "https://www.bilibili.com/video/av116435774932562/",
-          "hot": "158.7万"
+          "title": "新西兰夯爆了！",
+          "url": "https://www.bilibili.com/video/av116434566910398/",
+          "hot": "107.4万"
         },
         {
           "index": 38,
-          "title": "新西兰夯爆了！",
-          "url": "https://www.bilibili.com/video/av116434566910398/",
-          "hot": "107.3万"
+          "title": "我能在逗笑杨齐家的同时清图吗？",
+          "url": "https://www.bilibili.com/video/av116439314861077/",
+          "hot": "117.9万"
         },
         {
           "index": 39,
-          "title": "我能在逗笑杨齐家的同时清图吗？",
-          "url": "https://www.bilibili.com/video/av116439314861077/",
-          "hot": "117.4万"
+          "title": "全国菜系从夯到拉，个人口味嗷！",
+          "url": "https://www.bilibili.com/video/av116439935749083/",
+          "hot": "70.5万"
         },
         {
           "index": 40,
           "title": "“当别人问我这辈子什么时候最紧张”",
           "url": "https://www.bilibili.com/video/av116431781894888/",
-          "hot": "92.4万"
+          "hot": "92.6万"
         },
         {
           "index": 41,
-          "title": "回头就死！！！！",
-          "url": "https://www.bilibili.com/video/av116440791260636/",
-          "hot": "65.6万"
+          "title": "当被问到每天在学校都干些啥时......",
+          "url": "https://www.bilibili.com/video/av116429365969931/",
+          "hot": "157.9万"
         },
         {
           "index": 42,
-          "title": "全国菜系从夯到拉，个人口味嗷！",
-          "url": "https://www.bilibili.com/video/av116439935749083/",
-          "hot": "69.3万"
+          "title": "回头就死！！！！",
+          "url": "https://www.bilibili.com/video/av116440791260636/",
+          "hot": "66.4万"
         },
         {
           "index": 43,
           "title": "今天不讲课了，去体验一下重庆落地签！",
           "url": "https://www.bilibili.com/video/av116436865387556/",
-          "hot": "199.1万"
+          "hot": "199.4万"
         },
         {
           "index": 44,
           "title": "比利时是什么？",
           "url": "https://www.bilibili.com/video/av116436227918505/",
-          "hot": "116.9万"
+          "hot": "117.2万"
         },
         {
           "index": 45,
-          "title": "八年情侣博主的心里话",
-          "url": "https://www.bilibili.com/video/av116431010139350/",
-          "hot": "139.0万"
+          "title": "罗罗汤马西 #智斗天花板",
+          "url": "https://www.bilibili.com/video/av116436999673683/",
+          "hot": "189.3万"
         },
         {
           "index": 46,
-          "title": "罗罗汤马西 #智斗天花板",
-          "url": "https://www.bilibili.com/video/av116436999673683/",
-          "hot": "188.7万"
+          "title": "动态视频｜贴在眼球上的隐形眼镜，是怎么造出来的？",
+          "url": "https://www.bilibili.com/video/av116441344972711/",
+          "hot": "99.8万"
         },
         {
           "index": 47,
-          "title": "动态视频｜贴在眼球上的隐形眼镜，是怎么造出来的？",
-          "url": "https://www.bilibili.com/video/av116441344972711/",
-          "hot": "99.4万"
+          "title": "霍尔木兹开关开关，下半场怎么打？【岛岛连线xAJ小外】",
+          "url": "https://www.bilibili.com/video/av116435657430032/",
+          "hot": "102.2万"
         },
         {
           "index": 48,
-          "title": "霍尔木兹开关开关，下半场怎么打？【岛岛连线xAJ小外】",
-          "url": "https://www.bilibili.com/video/av116435657430032/",
-          "hot": "101.8万"
+          "title": "美伊谈判反复拉扯，霍尔木兹海峡或将变成心照不宣的灰色地带【深度分析】",
+          "url": "https://www.bilibili.com/video/av116442015991723/",
+          "hot": "108.0万"
         },
         {
           "index": 49,
-          "title": "美伊谈判反复拉扯，霍尔木兹海峡或将变成心照不宣的灰色地带【深度分析】",
-          "url": "https://www.bilibili.com/video/av116442015991723/",
-          "hot": "107.7万"
+          "title": "八年情侣博主的心里话",
+          "url": "https://www.bilibili.com/video/av116431010139350/",
+          "hot": "139.1万"
         },
         {
           "index": 50,
           "title": "这都能还原！！？【MC银狼篇】",
           "url": "https://www.bilibili.com/video/av116443224016012/",
-          "hot": "43.3万"
+          "hot": "43.8万"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 29",
-      "update_time": "2026-04-23 02:46:49",
+      "update_time": "2026-04-23 03:54:33",
       "data": [
         {
           "index": 1,
