@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-25 19:41:26",
+  "update_time": "2026-04-25 20:28:22",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-25 19:41:25",
+      "update_time": "2026-04-25 20:28:22",
       "data": [
         {
           "index": 1,
@@ -314,307 +314,307 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-25 19:41:25",
+      "update_time": "2026-04-25 20:28:22",
       "data": [
         {
           "index": 1,
           "title": "唱着山歌来买瓜",
           "url": "https://www.bilibili.com/video/av116446730586850/",
-          "hot": "392.5万"
+          "hot": "395.1万"
         },
         {
           "index": 2,
           "title": "⚡对 对 子 战 神 4⚡",
           "url": "https://www.bilibili.com/video/av116451998503195/",
-          "hot": "527.0万"
+          "hot": "532.9万"
         },
         {
           "index": 3,
           "title": "翻译翻译 什么叫猛攻！",
           "url": "https://www.bilibili.com/video/av116452015215652/",
-          "hot": "691.6万"
+          "hot": "692.7万"
         },
         {
           "index": 4,
           "title": "宝岛珠还，功成无我",
           "url": "https://www.bilibili.com/video/av116458658989647/",
-          "hot": "271.1万"
+          "hot": "279.0万"
         },
         {
           "index": 5,
           "title": "《原神》幕后的故事：向至冬，向未来",
           "url": "https://www.bilibili.com/video/av116453223242563/",
-          "hot": "176.6万"
+          "hot": "178.6万"
         },
         {
           "index": 6,
           "title": "腹有视频气自滑✨",
           "url": "https://www.bilibili.com/video/av116442351803077/",
-          "hot": "272.8万"
+          "hot": "274.5万"
         },
         {
           "index": 7,
           "title": "城市大富翁（4）",
           "url": "https://www.bilibili.com/video/av116448424889365/",
-          "hot": "206.2万"
+          "hot": "208.0万"
         },
         {
           "index": 8,
-          "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
-          "url": "https://www.bilibili.com/video/av116453441347033/",
-          "hot": "205.7万"
+          "title": "“音乐一响 神兵登场”",
+          "url": "https://www.bilibili.com/video/av116452938022954/",
+          "hot": "351.4万"
         },
         {
           "index": 9,
-          "title": "“音乐一响 神兵登场”",
-          "url": "https://www.bilibili.com/video/av116452938022954/",
-          "hot": "329.2万"
+          "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
+          "url": "https://www.bilibili.com/video/av116453441347033/",
+          "hot": "208.5万"
         },
         {
           "index": 10,
           "title": "你可以熬夜，但第二天必须去做这些恢复。",
           "url": "https://www.bilibili.com/video/av116448961829764/",
-          "hot": "271.3万"
+          "hot": "274.2万"
         },
         {
           "index": 11,
           "title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
           "url": "https://www.bilibili.com/video/av116454296914845/",
-          "hot": "351.8万"
+          "hot": "356.6万"
         },
         {
           "index": 12,
-          "title": "lulu分布在世界各地的兄弟姐妹",
-          "url": "https://www.bilibili.com/video/av116447787418237/",
-          "hot": "199.9万"
+          "title": "《你这蜂蜜保真吗》",
+          "url": "https://www.bilibili.com/video/av116448324229300/",
+          "hot": "642.0万"
         },
         {
           "index": 13,
-          "title": "《你这蜂蜜保真吗》",
-          "url": "https://www.bilibili.com/video/av116448324229300/",
-          "hot": "637.3万"
+          "title": "lulu分布在世界各地的兄弟姐妹",
+          "url": "https://www.bilibili.com/video/av116447787418237/",
+          "hot": "200.5万"
         },
         {
           "index": 14,
           "title": "《谁家之AI夺舍了我的父母》",
           "url": "https://www.bilibili.com/video/av116452484979271/",
-          "hot": "222.2万"
+          "hot": "222.9万"
         },
         {
           "index": 15,
           "title": "同学你的学帽掉了",
           "url": "https://www.bilibili.com/video/av116440489264364/",
-          "hot": "192.1万"
+          "hot": "194.6万"
         },
         {
           "index": 16,
           "title": "多 语 症",
           "url": "https://www.bilibili.com/video/av116453307129105/",
-          "hot": "174.6万"
+          "hot": "176.8万"
         },
         {
           "index": 17,
-          "title": "读书究竟让人越读越聪明，还是越读越傲慢？｜罗翔x刘震云x刘旸教主【2026读书日特别策划】",
-          "url": "https://www.bilibili.com/video/av116445589543483/",
-          "hot": "222.5万"
+          "title": "【毕导】我预言了一个物理规律，历时100天我证明了它",
+          "url": "https://www.bilibili.com/video/av116457635649581/",
+          "hot": "292.0万"
         },
         {
           "index": 18,
           "title": "这都能还原！！？【MC银狼篇】",
           "url": "https://www.bilibili.com/video/av116443224016012/",
-          "hot": "335.8万"
+          "hot": "339.8万"
         },
         {
           "index": 19,
-          "title": "一块饼干，怎么就成了最好的地图设计器？看完视频，一分钟内，你也可以设计你自己的游戏世界观！",
-          "url": "https://www.bilibili.com/video/av116444180318049/",
-          "hot": "154.1万"
+          "title": "读书究竟让人越读越聪明，还是越读越傲慢？｜罗翔x刘震云x刘旸教主【2026读书日特别策划】",
+          "url": "https://www.bilibili.com/video/av116445589543483/",
+          "hot": "224.6万"
         },
         {
           "index": 20,
-          "title": "【毕导】我预言了一个物理规律，历时100天我证明了它",
-          "url": "https://www.bilibili.com/video/av116457635649581/",
-          "hot": "285.8万"
+          "title": "算命的说我是航天之王【三角洲动画】",
+          "url": "https://www.bilibili.com/video/av116452803744845/",
+          "hot": "174.3万"
         },
         {
           "index": 21,
-          "title": "算命的说我是航天之王【三角洲动画】",
-          "url": "https://www.bilibili.com/video/av116452803744845/",
-          "hot": "171.7万"
+          "title": "一块饼干，怎么就成了最好的地图设计器？看完视频，一分钟内，你也可以设计你自己的游戏世界观！",
+          "url": "https://www.bilibili.com/video/av116444180318049/",
+          "hot": "155.9万"
         },
         {
           "index": 22,
           "title": "GTA6出来之前，我带你们去一趟洛圣都！",
           "url": "https://www.bilibili.com/video/av116449481852460/",
-          "hot": "169.6万"
+          "hot": "170.2万"
         },
         {
           "index": 23,
-          "title": "当bro以为自己很有影响力时",
-          "url": "https://www.bilibili.com/video/av116442569703582/",
-          "hot": "364.2万"
+          "title": "爸爸 什么是【树倒猢狲散】啊？",
+          "url": "https://www.bilibili.com/video/av116397673812274/",
+          "hot": "109.2万"
         },
         {
           "index": 24,
-          "title": "你第一眼看到的是哪个字",
-          "url": "https://www.bilibili.com/video/av116447888016451/",
-          "hot": "148.4万"
+          "title": "为什么说霸王龙是个工程力学奇迹",
+          "url": "https://www.bilibili.com/video/av116446965341529/",
+          "hot": "146.4万"
         },
         {
           "index": 25,
-          "title": "全国菜系从夯到拉，个人口味嗷！",
-          "url": "https://www.bilibili.com/video/av116439935749083/",
-          "hot": "150.4万"
+          "title": "我居然是班主任",
+          "url": "https://www.bilibili.com/video/av116448424891585/",
+          "hot": "136.3万"
         },
         {
           "index": 26,
-          "title": "爸爸 什么是【树倒猢狲散】啊？",
-          "url": "https://www.bilibili.com/video/av116397673812274/",
-          "hot": "108.4万"
+          "title": "当bro以为自己很有影响力时",
+          "url": "https://www.bilibili.com/video/av116442569703582/",
+          "hot": "366.9万"
         },
         {
           "index": 27,
-          "title": "为什么说霸王龙是个工程力学奇迹",
-          "url": "https://www.bilibili.com/video/av116446965341529/",
-          "hot": "144.9万"
+          "title": "变身猫娘，闯入赛博城市！",
+          "url": "https://www.bilibili.com/video/av116447082779903/",
+          "hot": "138.7万"
         },
         {
           "index": 28,
-          "title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
-          "url": "https://www.bilibili.com/video/av116436815055519/",
-          "hot": "206.9万"
+          "title": "全国菜系从夯到拉，个人口味嗷！",
+          "url": "https://www.bilibili.com/video/av116439935749083/",
+          "hot": "151.8万"
         },
         {
           "index": 29,
-          "title": "我居然是班主任",
-          "url": "https://www.bilibili.com/video/av116448424891585/",
-          "hot": "134.6万"
+          "title": "你第一眼看到的是哪个字",
+          "url": "https://www.bilibili.com/video/av116447888016451/",
+          "hot": "149.4万"
         },
         {
           "index": 30,
-          "title": "变身猫娘，闯入赛博城市！",
-          "url": "https://www.bilibili.com/video/av116447082779903/",
-          "hot": "136.1万"
+          "title": "《 豪 到 你 了 ？ 我 很 抱 歉 ！ 》",
+          "url": "https://www.bilibili.com/video/av116448290675636/",
+          "hot": "122.6万"
         },
         {
           "index": 31,
-          "title": "《 豪 到 你 了 ？ 我 很 抱 歉 ！ 》",
-          "url": "https://www.bilibili.com/video/av116448290675636/",
-          "hot": "121.7万"
+          "title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
+          "url": "https://www.bilibili.com/video/av116436815055519/",
+          "hot": "207.8万"
         },
         {
           "index": 32,
           "title": "王者荣耀×电影《哪吒之魔童闹海》联动CG：王吒聚五五，魔童闹峡谷！",
           "url": "https://www.bilibili.com/video/av116457870460498/",
-          "hot": "257.1万"
+          "hot": "259.2万"
         },
         {
           "index": 33,
           "title": "《哥几个嘴是真毒啊》",
           "url": "https://www.bilibili.com/video/av116448441664535/",
-          "hot": "106.6万"
+          "hot": "107.8万"
         },
         {
           "index": 34,
           "title": "老哥：看我装糖，阴阿sir一手",
           "url": "https://www.bilibili.com/video/av116444549416658/",
-          "hot": "329.5万"
+          "hot": "332.7万"
         },
         {
           "index": 35,
-          "title": "回头就死！！！！",
-          "url": "https://www.bilibili.com/video/av116440791260636/",
-          "hot": "136.0万"
+          "title": "无公司，无投资，无AI！我们手搓了一个原创中恐无限流大电影！？",
+          "url": "https://www.bilibili.com/video/av116457887370335/",
+          "hot": "46.5万"
         },
         {
           "index": 36,
-          "title": "时尚有时候是种天赋",
-          "url": "https://www.bilibili.com/video/av116447971904400/",
-          "hot": "240.8万"
+          "title": "《归环》概念片 ：回响",
+          "url": "https://www.bilibili.com/video/av116419299710090/",
+          "hot": "187.7万"
         },
         {
           "index": 37,
-          "title": "【货币战争攻略】三星五费银狼真能直接开桂？！狼尊卡商店D牌焚诀 所有装备全都能自定义的对局怎么玩最爽？货币大爽局时代降临",
-          "url": "https://www.bilibili.com/video/av116446243848329/",
-          "hot": "116.8万"
+          "title": "【真实事件改编】当人饭子遇上宗族村",
+          "url": "https://www.bilibili.com/video/av116458356998719/",
+          "hot": "157.4万"
         },
         {
           "index": 38,
-          "title": "《明日方舟：终末地》「镌宇铭星-共赴星海」合作纪录PV（上）",
-          "url": "https://www.bilibili.com/video/av116458910649439/",
-          "hot": "91.0万"
+          "title": "回头就死！！！！",
+          "url": "https://www.bilibili.com/video/av116440791260636/",
+          "hot": "137.0万"
         },
         {
           "index": 39,
-          "title": "【真实事件改编】当人饭子遇上宗族村",
-          "url": "https://www.bilibili.com/video/av116458356998719/",
-          "hot": "153.5万"
+          "title": "时尚有时候是种天赋",
+          "url": "https://www.bilibili.com/video/av116447971904400/",
+          "hot": "242.9万"
         },
         {
           "index": 40,
-          "title": "无公司，无投资，无AI！我们手搓了一个原创中恐无限流大电影！？",
-          "url": "https://www.bilibili.com/video/av116457887370335/",
-          "hot": "43.7万"
+          "title": "《明日方舟：终末地》「镌宇铭星-共赴星海」合作纪录PV（上）",
+          "url": "https://www.bilibili.com/video/av116458910649439/",
+          "hot": "91.2万"
         },
         {
           "index": 41,
           "title": "《劝酒》",
           "url": "https://www.bilibili.com/video/av116457685975563/",
-          "hot": "133.0万"
+          "hot": "136.4万"
         },
         {
           "index": 42,
-          "title": "热搜上“国内某985名校监控下发疯一幕”：养废一个孩子有多容易？",
-          "url": "https://www.bilibili.com/video/av116441881778279/",
-          "hot": "171.4万"
+          "title": "泽连斯基有牌打了",
+          "url": "https://www.bilibili.com/video/av116460940689486/",
+          "hot": "102.7万"
         },
         {
           "index": 43,
-          "title": "完整版！《诀别书》交响乐现场，它来了！ 短短4分08秒，却像看完了一整部电影～",
-          "url": "https://www.bilibili.com/video/av116442888409542/",
-          "hot": "129.9万"
+          "title": "《Stella's Materialism¹²：Stampede》",
+          "url": "https://www.bilibili.com/video/av116462115230037/",
+          "hot": "123.8万"
         },
         {
           "index": 44,
-          "title": "《异环》性能实测：超好玩！但你的配置能跑动吗？",
-          "url": "https://www.bilibili.com/video/av116451914679528/",
-          "hot": "139.8万"
+          "title": "【货币战争攻略】三星五费银狼真能直接开桂？！狼尊卡商店D牌焚诀 所有装备全都能自定义的对局怎么玩最爽？货币大爽局时代降临",
+          "url": "https://www.bilibili.com/video/av116446243848329/",
+          "hot": "117.5万"
         },
         {
           "index": 45,
           "title": "用无敌少侠的雷霆片头打开其它电影",
           "url": "https://www.bilibili.com/video/av116459128884467/",
-          "hot": "113.4万"
+          "hot": "118.2万"
         },
         {
           "index": 46,
-          "title": "英雄回家！第十三批在韩志愿军烈士遗骸归国纪实",
-          "url": "https://www.bilibili.com/video/av116450958251904/",
-          "hot": "40.4万"
+          "title": "完整版！《诀别书》交响乐现场，它来了！ 短短4分08秒，却像看完了一整部电影～",
+          "url": "https://www.bilibili.com/video/av116442888409542/",
+          "hot": "132.3万"
         },
         {
           "index": 47,
-          "title": "千万不要让陌生小朋友摸你家狗，否则……",
-          "url": "https://www.bilibili.com/video/av116444113210075/",
-          "hot": "398.3万"
+          "title": "热搜上“国内某985名校监控下发疯一幕”：养废一个孩子有多容易？",
+          "url": "https://www.bilibili.com/video/av116441881778279/",
+          "hot": "172.1万"
         },
         {
           "index": 48,
-          "title": "新三国里，谁的台词字数最多？谁加戏最多？！【新三国爆肝统计】",
-          "url": "https://www.bilibili.com/video/av116447753800951/",
-          "hot": "176.0万"
+          "title": "《异环》性能实测：超好玩！但你的配置能跑动吗？",
+          "url": "https://www.bilibili.com/video/av116451914679528/",
+          "hot": "140.2万"
         },
         {
           "index": 49,
-          "title": "《Stella's Materialism¹²：Stampede》",
-          "url": "https://www.bilibili.com/video/av116462115230037/",
-          "hot": "116.2万"
+          "title": "英雄回家！第十三批在韩志愿军烈士遗骸归国纪实",
+          "url": "https://www.bilibili.com/video/av116450958251904/",
+          "hot": "41.1万"
         },
         {
           "index": 50,
-          "title": "泽连斯基有牌打了",
-          "url": "https://www.bilibili.com/video/av116460940689486/",
-          "hot": "93.6万"
+          "title": "小伙买了一辆二手面包车拉货，挣到钱了中午吃37元盒饭，有鱼有菜有米饭",
+          "url": "https://www.bilibili.com/video/av116458860321625/",
+          "hot": "139.9万"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 28",
-      "update_time": "2026-04-25 19:41:26",
+      "update_time": "2026-04-25 20:28:22",
       "data": [
         {
           "index": 1,
