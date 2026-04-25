@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-25 07:53:09",
+  "update_time": "2026-04-25 09:19:32",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-25 07:53:08",
+      "update_time": "2026-04-25 09:19:32",
       "data": [
         {
           "index": 1,
@@ -314,307 +314,307 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-25 07:53:09",
+      "update_time": "2026-04-25 09:19:32",
       "data": [
         {
           "index": 1,
           "title": "唱着山歌来买瓜",
           "url": "https://www.bilibili.com/video/av116446730586850/",
-          "hot": "357.2万"
+          "hot": "360.6万"
         },
         {
           "index": 2,
           "title": "翻译翻译 什么叫猛攻！",
           "url": "https://www.bilibili.com/video/av116452015215652/",
-          "hot": "673.8万"
+          "hot": "676.0万"
         },
         {
           "index": 3,
           "title": "⚡对 对 子 战 神 4⚡",
           "url": "https://www.bilibili.com/video/av116451998503195/",
-          "hot": "394.5万"
+          "hot": "406.8万"
         },
         {
           "index": 4,
-          "title": "城市大富翁（4）",
-          "url": "https://www.bilibili.com/video/av116448424889365/",
-          "hot": "177.9万"
+          "title": "《原神》幕后的故事：向至冬，向未来",
+          "url": "https://www.bilibili.com/video/av116453223242563/",
+          "hot": "134.8万"
         },
         {
           "index": 5,
-          "title": "《原神》幕后的故事：向至冬，向未来",
-          "url": "https://www.bilibili.com/video/av116453223242563/",
-          "hot": "126.6万"
+          "title": "城市大富翁（4）",
+          "url": "https://www.bilibili.com/video/av116448424889365/",
+          "hot": "179.8万"
         },
         {
           "index": 6,
           "title": "腹有视频气自滑✨",
           "url": "https://www.bilibili.com/video/av116442351803077/",
-          "hot": "243.1万"
+          "hot": "250.7万"
         },
         {
           "index": 7,
           "title": "lulu分布在世界各地的兄弟姐妹",
           "url": "https://www.bilibili.com/video/av116447787418237/",
-          "hot": "184.4万"
+          "hot": "187.5万"
         },
         {
           "index": 8,
-          "title": "这都能还原！！？【MC银狼篇】",
-          "url": "https://www.bilibili.com/video/av116443224016012/",
-          "hot": "248.7万"
+          "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
+          "url": "https://www.bilibili.com/video/av116453441347033/",
+          "hot": "156.4万"
         },
         {
           "index": 9,
-          "title": "你可以熬夜，但第二天必须去做这些恢复。",
-          "url": "https://www.bilibili.com/video/av116448961829764/",
-          "hot": "175.1万"
+          "title": "这都能还原！！？【MC银狼篇】",
+          "url": "https://www.bilibili.com/video/av116443224016012/",
+          "hot": "260.6万"
         },
         {
           "index": 10,
-          "title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
-          "url": "https://www.bilibili.com/video/av116436815055519/",
-          "hot": "180.8万"
+          "title": "你可以熬夜，但第二天必须去做这些恢复。",
+          "url": "https://www.bilibili.com/video/av116448961829764/",
+          "hot": "208.6万"
         },
         {
           "index": 11,
-          "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
-          "url": "https://www.bilibili.com/video/av116453441347033/",
-          "hot": "143.7万"
+          "title": "《谁家之AI夺舍了我的父母》",
+          "url": "https://www.bilibili.com/video/av116452484979271/",
+          "hot": "210.5万"
         },
         {
           "index": 12,
-          "title": "《谁家之AI夺舍了我的父母》",
-          "url": "https://www.bilibili.com/video/av116452484979271/",
-          "hot": "208.1万"
+          "title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
+          "url": "https://www.bilibili.com/video/av116436815055519/",
+          "hot": "183.9万"
         },
         {
           "index": 13,
-          "title": "读书究竟让人越读越聪明，还是越读越傲慢？｜罗翔x刘震云x刘旸教主【2026读书日特别策划】",
-          "url": "https://www.bilibili.com/video/av116445589543483/",
-          "hot": "202.3万"
+          "title": "《你这蜂蜜保真吗》",
+          "url": "https://www.bilibili.com/video/av116448324229300/",
+          "hot": "574.4万"
         },
         {
           "index": 14,
-          "title": "《你这蜂蜜保真吗》",
-          "url": "https://www.bilibili.com/video/av116448324229300/",
-          "hot": "566.3万"
+          "title": "读书究竟让人越读越聪明，还是越读越傲慢？｜罗翔x刘震云x刘旸教主【2026读书日特别策划】",
+          "url": "https://www.bilibili.com/video/av116445589543483/",
+          "hot": "203.1万"
         },
         {
           "index": 15,
           "title": "全国菜系从夯到拉，个人口味嗷！",
           "url": "https://www.bilibili.com/video/av116439935749083/",
-          "hot": "140.9万"
+          "hot": "141.5万"
         },
         {
           "index": 16,
           "title": "回头就死！！！！",
           "url": "https://www.bilibili.com/video/av116440791260636/",
-          "hot": "123.6万"
+          "hot": "124.5万"
         },
         {
           "index": 17,
           "title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
           "url": "https://www.bilibili.com/video/av116454296914845/",
-          "hot": "283.6万"
+          "hot": "290.1万"
         },
         {
           "index": 18,
           "title": "同学你的学帽掉了",
           "url": "https://www.bilibili.com/video/av116440489264364/",
-          "hot": "163.5万"
+          "hot": "166.4万"
         },
         {
           "index": 19,
           "title": "多 语 症",
           "url": "https://www.bilibili.com/video/av116453307129105/",
-          "hot": "146.1万"
+          "hot": "148.9万"
         },
         {
           "index": 20,
           "title": "一块饼干，怎么就成了最好的地图设计器？看完视频，一分钟内，你也可以设计你自己的游戏世界观！",
           "url": "https://www.bilibili.com/video/av116444180318049/",
-          "hot": "130.9万"
+          "hot": "133.8万"
         },
         {
           "index": 21,
           "title": "当bro以为自己很有影响力时",
           "url": "https://www.bilibili.com/video/av116442569703582/",
-          "hot": "336.0万"
+          "hot": "337.9万"
         },
         {
           "index": 22,
-          "title": "曾经在不同地方逛地下商场的感觉一下子就涌上心头了不？哈哈哈 说出你的经历！",
-          "url": "https://www.bilibili.com/video/av116442284432878/",
-          "hot": "451.9万"
+          "title": "宝岛珠还，功成无我",
+          "url": "https://www.bilibili.com/video/av116458658989647/",
+          "hot": "135.0万"
         },
         {
           "index": 23,
           "title": "GTA6出来之前，我带你们去一趟洛圣都！",
           "url": "https://www.bilibili.com/video/av116449481852460/",
-          "hot": "162.4万"
+          "hot": "163.0万"
         },
         {
           "index": 24,
-          "title": "算命的说我是航天之王【三角洲动画】",
-          "url": "https://www.bilibili.com/video/av116452803744845/",
-          "hot": "128.3万"
+          "title": "曾经在不同地方逛地下商场的感觉一下子就涌上心头了不？哈哈哈 说出你的经历！",
+          "url": "https://www.bilibili.com/video/av116442284432878/",
+          "hot": "456.3万"
         },
         {
           "index": 25,
-          "title": "【毕导】我预言了一个物理规律，历时100天我证明了它",
-          "url": "https://www.bilibili.com/video/av116457635649581/",
-          "hot": "126.2万"
+          "title": "算命的说我是航天之王【三角洲动画】",
+          "url": "https://www.bilibili.com/video/av116452803744845/",
+          "hot": "133.9万"
         },
         {
           "index": 26,
-          "title": "为什么说霸王龙是个工程力学奇迹",
-          "url": "https://www.bilibili.com/video/av116446965341529/",
-          "hot": "124.1万"
+          "title": "【毕导】我预言了一个物理规律，历时100天我证明了它",
+          "url": "https://www.bilibili.com/video/av116457635649581/",
+          "hot": "145.8万"
         },
         {
           "index": 27,
-          "title": "【货币战争攻略】三星五费银狼真能直接开桂？！狼尊卡商店D牌焚诀 所有装备全都能自定义的对局怎么玩最爽？货币大爽局时代降临",
-          "url": "https://www.bilibili.com/video/av116446243848329/",
-          "hot": "106.3万"
+          "title": "为什么说霸王龙是个工程力学奇迹",
+          "url": "https://www.bilibili.com/video/av116446965341529/",
+          "hot": "125.5万"
         },
         {
           "index": 28,
-          "title": "爸爸 什么是【树倒猢狲散】啊？",
-          "url": "https://www.bilibili.com/video/av116397673812274/",
-          "hot": "93.7万"
+          "title": "【货币战争攻略】三星五费银狼真能直接开桂？！狼尊卡商店D牌焚诀 所有装备全都能自定义的对局怎么玩最爽？货币大爽局时代降临",
+          "url": "https://www.bilibili.com/video/av116446243848329/",
+          "hot": "107.1万"
         },
         {
           "index": 29,
-          "title": "宝岛珠还，功成无我",
-          "url": "https://www.bilibili.com/video/av116458658989647/",
-          "hot": "101.0万"
+          "title": "爸爸 什么是【树倒猢狲散】啊？",
+          "url": "https://www.bilibili.com/video/av116397673812274/",
+          "hot": "95.9万"
         },
         {
           "index": 30,
           "title": "老哥：看我装糖，阴阿sir一手",
           "url": "https://www.bilibili.com/video/av116444549416658/",
-          "hot": "289.7万"
+          "hot": "294.0万"
         },
         {
           "index": 31,
           "title": "变身猫娘，闯入赛博城市！",
           "url": "https://www.bilibili.com/video/av116447082779903/",
-          "hot": "109.8万"
+          "hot": "111.9万"
         },
         {
           "index": 32,
           "title": "《异环》娜娜莉角色短片丨一个「老大」的邀请",
           "url": "https://www.bilibili.com/video/av116437419035324/",
-          "hot": "351.9万"
+          "hot": "352.0万"
         },
         {
           "index": 33,
           "title": "千万不要让陌生小朋友摸你家狗，否则……",
           "url": "https://www.bilibili.com/video/av116444113210075/",
-          "hot": "323.6万"
+          "hot": "333.2万"
         },
         {
           "index": 34,
           "title": "你第一眼看到的是哪个字",
           "url": "https://www.bilibili.com/video/av116447888016451/",
-          "hot": "121.5万"
+          "hot": "124.1万"
         },
         {
           "index": 35,
           "title": "我居然是班主任",
           "url": "https://www.bilibili.com/video/av116448424891585/",
-          "hot": "110.6万"
+          "hot": "113.2万"
         },
         {
           "index": 36,
           "title": "《 豪 到 你 了 ？ 我 很 抱 歉 ！ 》",
           "url": "https://www.bilibili.com/video/av116448290675636/",
-          "hot": "95.7万"
+          "hot": "96.9万"
         },
         {
           "index": 37,
-          "title": "68万亿化债开始了？错，是削藩开始了！化债周期谁能偷跑？",
-          "url": "https://www.bilibili.com/video/av116441948947520/",
-          "hot": "174.6万"
+          "title": "《哥几个嘴是真毒啊》",
+          "url": "https://www.bilibili.com/video/av116448441664535/",
+          "hot": "90.9万"
         },
         {
           "index": 38,
-          "title": "《哥几个嘴是真毒啊》",
-          "url": "https://www.bilibili.com/video/av116448441664535/",
-          "hot": "89.1万"
+          "title": "热搜上“国内某985名校监控下发疯一幕”：养废一个孩子有多容易？",
+          "url": "https://www.bilibili.com/video/av116441881778279/",
+          "hot": "163.0万"
         },
         {
           "index": 39,
-          "title": "热搜上“国内某985名校监控下发疯一幕”：养废一个孩子有多容易？",
-          "url": "https://www.bilibili.com/video/av116441881778279/",
-          "hot": "161.3万"
+          "title": "68万亿化债开始了？错，是削藩开始了！化债周期谁能偷跑？",
+          "url": "https://www.bilibili.com/video/av116441948947520/",
+          "hot": "175.4万"
         },
         {
           "index": 40,
-          "title": "《崩坏：星穹铁道》动画短片：「这游戏还能不能玩了？」",
-          "url": "https://www.bilibili.com/video/av116436060078332/",
-          "hot": "449.4万"
+          "title": "时尚有时候是种天赋",
+          "url": "https://www.bilibili.com/video/av116447971904400/",
+          "hot": "220.6万"
         },
         {
           "index": 41,
-          "title": "时尚有时候是种天赋",
-          "url": "https://www.bilibili.com/video/av116447971904400/",
-          "hot": "218.6万"
+          "title": "完整版！《诀别书》交响乐现场，它来了！ 短短4分08秒，却像看完了一整部电影～",
+          "url": "https://www.bilibili.com/video/av116442888409542/",
+          "hot": "108.3万"
         },
         {
           "index": 42,
-          "title": "完整版！《诀别书》交响乐现场，它来了！ 短短4分08秒，却像看完了一整部电影～",
-          "url": "https://www.bilibili.com/video/av116442888409542/",
-          "hot": "105.1万"
+          "title": "新三国里，谁的台词字数最多？谁加戏最多？！【新三国爆肝统计】",
+          "url": "https://www.bilibili.com/video/av116447753800951/",
+          "hot": "172.1万"
         },
         {
           "index": 43,
-          "title": "新三国里，谁的台词字数最多？谁加戏最多？！【新三国爆肝统计】",
-          "url": "https://www.bilibili.com/video/av116447753800951/",
-          "hot": "171.7万"
+          "title": "《崩坏：星穹铁道》动画短片：「这游戏还能不能玩了？」",
+          "url": "https://www.bilibili.com/video/av116436060078332/",
+          "hot": "451.3万"
         },
         {
           "index": 44,
           "title": "快乐日常！！",
           "url": "https://www.bilibili.com/video/av116440690660407/",
-          "hot": "95.8万"
+          "hot": "96.1万"
         },
         {
           "index": 45,
           "title": "第三集：宿敌还是宿敌",
           "url": "https://www.bilibili.com/video/av116447418255347/",
-          "hot": "153.3万"
+          "hot": "155.4万"
         },
         {
           "index": 46,
           "title": "《异环》性能实测：超好玩！但你的配置能跑动吗？",
           "url": "https://www.bilibili.com/video/av116451914679528/",
-          "hot": "132.7万"
+          "hot": "133.3万"
         },
         {
           "index": 47,
           "title": "一秒变异！夺舍5头5甲+满改M14+AWM，775万撤离！",
           "url": "https://www.bilibili.com/video/av116442670373661/",
-          "hot": "201.0万"
+          "hot": "205.8万"
         },
         {
           "index": 48,
           "title": "靠这个混进皮克斯动画实习叻",
           "url": "https://www.bilibili.com/video/av116440438933129/",
-          "hot": "147.8万"
+          "hot": "149.0万"
         },
         {
           "index": 49,
           "title": "洛天依 原创《告死鸟》",
           "url": "https://www.bilibili.com/video/av116436378916947/",
-          "hot": "123.4万"
+          "hot": "123.9万"
         },
         {
           "index": 50,
           "title": "特厨探店|来淮安物理意义上的\"偷\"菜—蒲鲜菜馆",
           "url": "https://www.bilibili.com/video/av116445908372480/",
-          "hot": "94.4万"
+          "hot": "94.7万"
         }
       ]
     },
@@ -622,121 +622,121 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 28",
-      "update_time": "2026-04-25 07:53:09",
+      "update_time": "2026-04-25 09:19:32",
       "data": [
         {
           "index": 1,
-          "title": "“女高管酒醉后被老板性侵”案今日再次开庭，当事人崔丽丽索赔增至250余万。崔丽丽哽咽落泪：请大家继续为我加油，这场硬仗一定要打下来，为劳动者和职业女性争取尊严和权益",
-          "url": "https://www.douyin.com/video/7631837242188664079",
-          "hot": "4271万"
+          "title": "惊险一幕！小客车高速出口违法直切变道致货车侧翻，负全责！交警提示：出口路段应提前观察，安全变道。@中国交通广播",
+          "url": "https://www.douyin.com/video/7632127117702024475",
+          "hot": "7003万"
         },
         {
           "index": 2,
-          "title": "截图挑战！帮福建舰“稳稳停靠”在深海蓝疆 #人民海军77周岁",
-          "url": "https://www.douyin.com/video/7631738377183776015",
-          "hot": "3631万"
+          "title": "宝岛珠还，功成无我 #朱铁雄式国风变装",
+          "url": "https://www.douyin.com/video/7631902831821344035",
+          "hot": "5168万"
         },
         {
           "index": 3,
-          "title": "饭店的寒假工，团购有猫腻！",
-          "url": "https://www.douyin.com/video/7631824503337476468",
-          "hot": "3523万"
+          "title": "饭店的寒假工，空降关系户！",
+          "url": "https://www.douyin.com/video/7631973489948133044",
+          "hot": "4071万"
         },
         {
           "index": 4,
-          "title": "你说它一顿吃了十只鸭子？ #吞异物 #宠物医生 #万物可爱计划 #给春日养宠支个招",
-          "url": "https://www.douyin.com/video/7631434873172987176",
-          "hot": "2209万"
+          "title": "饭店的寒假工，团购有猫腻！",
+          "url": "https://www.douyin.com/video/7631824503337476468",
+          "hot": "2801万"
         },
         {
           "index": 5,
-          "title": "夫妻和睦的秘诀就是各自做自己擅长的事 #意想不到的结局 #记录真实生活 #夫妻日常",
-          "url": "https://www.douyin.com/video/7630800418532543206",
-          "hot": "2136万"
+          "title": "未成年人驾电瓶车逆行撞倒正常骑行老人，目前案件正进一步处理。交警提示：未满16周岁禁止驾驶电动自行车上路！电动车严禁逆行，道路违法须担责！@开拖拉机去接你",
+          "url": "https://www.douyin.com/video/7630702329578278144",
+          "hot": "2721万"
         },
         {
           "index": 6,
-          "title": "仇人如果看到这一幕也会释怀吧……",
-          "url": "https://www.douyin.com/video/7631536478959299682",
-          "hot": "2015万"
+          "title": "这个声音听多了，是真上瘾~#原声 #重机枪",
+          "url": "https://www.douyin.com/video/7630781209852775707",
+          "hot": "2033万"
         },
         {
           "index": 7,
-          "title": "这个声音听多了，是真上瘾~#原声 #重机枪",
-          "url": "https://www.douyin.com/video/7630781209852775707",
-          "hot": "1970万"
+          "title": "仇人如果看到这一幕也会释怀吧……",
+          "url": "https://www.douyin.com/video/7631536478959299682",
+          "hot": "1914万"
         },
         {
           "index": 8,
-          "title": "宝岛珠还，功成无我 #朱铁雄式国风变装",
-          "url": "https://www.douyin.com/video/7631902831821344035",
-          "hot": "1924万"
+          "title": "月薪1万6！#内蒙古一牧场招人放3000只羊   全年无休！夫妻档可互相照应 #你会带另一半去高原领高薪吗 ？",
+          "url": "https://www.douyin.com/video/7631960489660009737",
+          "hot": "1633万"
         },
         {
           "index": 9,
-          "title": "不会迟到的床",
-          "url": "https://www.douyin.com/video/7631425277477835450",
-          "hot": "1760万"
+          "title": "挑战，请帮他戴上头盔#一盔一带安全常在",
+          "url": "https://www.douyin.com/video/7631964579936881970",
+          "hot": "1513万"
         },
         {
           "index": 10,
-          "title": "绿灯亮了不走也违法？交警：记6分罚200元！@新星融媒",
-          "url": "https://www.douyin.com/video/7630111363318271266",
-          "hot": "1657万"
+          "title": "你说它一顿吃了十只鸭子？ #吞异物 #宠物医生 #万物可爱计划 #给春日养宠支个招",
+          "url": "https://www.douyin.com/video/7631434873172987176",
+          "hot": "1401万"
         },
         {
           "index": 11,
-          "title": "手机捞回来了",
-          "url": "https://www.douyin.com/video/7631172915673814949",
-          "hot": "1584万"
+          "title": "真谢了 #精神状态belike #真实还原 #谢了 #抽象",
+          "url": "https://www.douyin.com/video/7631863426172432356",
+          "hot": "1401万"
         },
         {
           "index": 12,
-          "title": "#董亮魔术 台上看魔术的那个cpu都干烧了，台下看小品的那群肚子都笑抽筋了#654俱乐部 #课堂实录 #校园生活",
-          "url": "https://www.douyin.com/video/7631565327244378867",
-          "hot": "1548万"
+          "title": "且看并肩作战的他们，破空直上，大闹一场！ #王者哪吒2联动CG #王者荣耀",
+          "url": "https://www.douyin.com/video/7632271164278263050",
+          "hot": "1195万"
         },
         {
           "index": 13,
-          "title": "饭店的寒假工，菜汤洒客人衣服上！#来抖音商城选好礼",
-          "url": "https://www.douyin.com/video/7630842326252989539",
-          "hot": "1420万"
+          "title": "当你又打开当年最爱的游戏  #新倩女幽魂  #倩女幽魂手游  #倩女十五周年以旧换新   #倩女手游十周年",
+          "url": "https://www.douyin.com/video/7632150655695719714",
+          "hot": "1157万"
         },
         {
           "index": 14,
-          "title": "#女儿说我爸爸是刘德华没人相信  #刘德 华 说自己女儿在学校说“我爸爸是刘德华”没人相信😂 这甜蜜的烦恼 #蓝羽会客厅",
-          "url": "https://www.douyin.com/video/7630326599598099755",
-          "hot": "1377万"
+          "title": "《恋爱脑用在事业上》第二集 #李宗恒",
+          "url": "https://www.douyin.com/video/7631729733899030346",
+          "hot": "1080万"
         },
         {
           "index": 15,
-          "title": "哈哈哈哈哈#情侣日常 #睡觉姿势 ❤️‍🩹🦋❤️❤️‍🩹～",
-          "url": "https://www.douyin.com/video/7631758132168396453",
-          "hot": "1283万"
+          "title": "我吃个饭压力太大了",
+          "url": "https://www.douyin.com/video/7631880891817000881",
+          "hot": "1031万"
         },
         {
           "index": 16,
-          "title": "蚊帐：这辈子没想到还要承受这种重量！ #猫咪的迷惑行为 #萌宠成精了 #我镜头下的小猫",
-          "url": "https://www.douyin.com/video/7631504383520146277",
-          "hot": "1119万"
+          "title": "#董亮魔术 台上看魔术的那个cpu都干烧了，台下看小品的那群肚子都笑抽筋了#654俱乐部 #课堂实录 #校园生活",
+          "url": "https://www.douyin.com/video/7631565327244378867",
+          "hot": "1027万"
         },
         {
           "index": 17,
-          "title": "真谢了 #精神状态belike #真实还原 #谢了 #抽象",
-          "url": "https://www.douyin.com/video/7631863426172432356",
-          "hot": "1099万"
+          "title": "特色面筋虾滑，一口下去简直绝绝子#特色烧烤 #烧烤 #鲜货烧烤 #烧烤教学",
+          "url": "https://www.douyin.com/video/7631198493813806958",
+          "hot": "982万"
         },
         {
           "index": 18,
-          "title": "土豆🥔：其实你也不用所有活动都带上我的 #土豆阿座 #车座子狗土豆",
-          "url": "https://www.douyin.com/video/7631580215717982591",
-          "hot": "1021万"
+          "title": "手机捞回来了",
+          "url": "https://www.douyin.com/video/7631172915673814949",
+          "hot": "960万"
         },
         {
           "index": 19,
-          "title": "不仅分低还偏科！",
-          "url": "https://www.douyin.com/video/7631199751417672698",
-          "hot": "900万"
+          "title": "土豆🥔：其实你也不用所有活动都带上我的 #土豆阿座 #车座子狗土豆",
+          "url": "https://www.douyin.com/video/7631580215717982591",
+          "hot": "927万"
         },
         {
           "index": 20,
