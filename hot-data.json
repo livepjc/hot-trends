@@ -1,12 +1,12 @@
 {
   "success": true,
-  "update_time": "2026-04-26 20:31:10",
+  "update_time": "2026-04-26 21:48:17",
   "data": {
     "weibo": {
       "success": true,
       "title": "微博热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-26 20:31:09",
+      "update_time": "2026-04-26 21:48:16",
       "data": [
         {
           "index": 1,
@@ -314,307 +314,307 @@
       "success": true,
       "title": "哔哩哔哩热搜榜",
       "subtitle": "Top 50",
-      "update_time": "2026-04-26 20:31:10",
+      "update_time": "2026-04-26 21:48:16",
       "data": [
         {
           "index": 1,
           "title": "宝岛珠还，功成无我",
           "url": "https://www.bilibili.com/video/av116458658989647/",
-          "hot": "354.7万"
+          "hot": "358.9万"
         },
         {
           "index": 2,
           "title": "⚡对 对 子 战 神 4⚡",
           "url": "https://www.bilibili.com/video/av116451998503195/",
-          "hot": "592.2万"
+          "hot": "595.6万"
         },
         {
           "index": 3,
           "title": "对不起...",
           "url": "https://www.bilibili.com/video/av116464782744298/",
-          "hot": "365.9万"
+          "hot": "377.5万"
         },
         {
           "index": 4,
           "title": "《原神》幕后的故事：向至冬，向未来",
           "url": "https://www.bilibili.com/video/av116453223242563/",
-          "hot": "208.6万"
+          "hot": "209.7万"
         },
         {
           "index": 5,
           "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
           "url": "https://www.bilibili.com/video/av116453441347033/",
-          "hot": "273.6万"
+          "hot": "276.8万"
         },
         {
           "index": 6,
           "title": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
           "url": "https://www.bilibili.com/video/av116460890626595/",
-          "hot": "205.0万"
+          "hot": "207.6万"
         },
         {
           "index": 7,
-          "title": "翻译翻译 什么叫猛攻！",
-          "url": "https://www.bilibili.com/video/av116452015215652/",
-          "hot": "705.8万"
+          "title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
+          "url": "https://www.bilibili.com/video/av116454296914845/",
+          "hot": "420.3万"
         },
         {
           "index": 8,
-          "title": "腹有视频气自滑✨",
-          "url": "https://www.bilibili.com/video/av116442351803077/",
-          "hot": "304.1万"
+          "title": "你可以熬夜，但第二天必须去做这些恢复。",
+          "url": "https://www.bilibili.com/video/av116448961829764/",
+          "hot": "370.2万"
         },
         {
           "index": 9,
-          "title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
-          "url": "https://www.bilibili.com/video/av116454296914845/",
-          "hot": "417.2万"
+          "title": "当你长大当了音乐老师后",
+          "url": "https://www.bilibili.com/video/av116458323510806/",
+          "hot": "425.3万"
         },
         {
           "index": 10,
-          "title": "你可以熬夜，但第二天必须去做这些恢复。",
-          "url": "https://www.bilibili.com/video/av116448961829764/",
-          "hot": "367.8万"
+          "title": "腹有视频气自滑✨",
+          "url": "https://www.bilibili.com/video/av116442351803077/",
+          "hot": "305.8万"
         },
         {
           "index": 11,
-          "title": "当你长大当了音乐老师后",
-          "url": "https://www.bilibili.com/video/av116458323510806/",
-          "hot": "417.7万"
+          "title": "翻译翻译 什么叫猛攻！",
+          "url": "https://www.bilibili.com/video/av116452015215652/",
+          "hot": "706.5万"
         },
         {
           "index": 12,
-          "title": "唱着山歌来买瓜",
-          "url": "https://www.bilibili.com/video/av116446730586850/",
-          "hot": "440.3万"
+          "title": "无公司，无投资，无AI！我们手搓了一个原创中恐无限流大电影！？",
+          "url": "https://www.bilibili.com/video/av116457887370335/",
+          "hot": "82.2万"
         },
         {
           "index": 13,
-          "title": "无公司，无投资，无AI！我们手搓了一个原创中恐无限流大电影！？",
-          "url": "https://www.bilibili.com/video/av116457887370335/",
-          "hot": "80.1万"
+          "title": "唱着山歌来买瓜",
+          "url": "https://www.bilibili.com/video/av116446730586850/",
+          "hot": "443.3万"
         },
         {
           "index": 14,
-          "title": "同学你的学帽掉了",
-          "url": "https://www.bilibili.com/video/av116440489264364/",
-          "hot": "231.4万"
+          "title": "在桌底埋伏时发生这种事我也不想的啊！！",
+          "url": "https://www.bilibili.com/video/av116464061258749/",
+          "hot": "125.8万"
         },
         {
           "index": 15,
-          "title": "在桌底埋伏时发生这种事我也不想的啊！！",
-          "url": "https://www.bilibili.com/video/av116464061258749/",
-          "hot": "119.7万"
+          "title": "同学你的学帽掉了",
+          "url": "https://www.bilibili.com/video/av116440489264364/",
+          "hot": "234.2万"
         },
         {
           "index": 16,
-          "title": "城市大富翁（4）",
-          "url": "https://www.bilibili.com/video/av116448424889365/",
-          "hot": "232.9万"
+          "title": "《归环》概念片 ：回响",
+          "url": "https://www.bilibili.com/video/av116419299710090/",
+          "hot": "386.3万"
         },
         {
           "index": 17,
-          "title": "多 语 症",
-          "url": "https://www.bilibili.com/video/av116453307129105/",
-          "hot": "213.7万"
+          "title": "【星穹铁道生日会】《求索者》天才俱乐部印象曲",
+          "url": "https://www.bilibili.com/video/av116458776431486/",
+          "hot": "45.3万"
         },
         {
           "index": 18,
-          "title": "《谁家之AI夺舍了我的父母》",
-          "url": "https://www.bilibili.com/video/av116452484979271/",
-          "hot": "234.9万"
+          "title": "来不及哀悼立刻赶往清波寨【动画】",
+          "url": "https://www.bilibili.com/video/av116461108532621/",
+          "hot": "142.6万"
         },
         {
           "index": 19,
-          "title": "来不及哀悼立刻赶往清波寨【动画】",
-          "url": "https://www.bilibili.com/video/av116461108532621/",
-          "hot": "139.2万"
+          "title": "以防你不知道异环里可以强行让早雾喝酒",
+          "url": "https://www.bilibili.com/video/av116464480753149/",
+          "hot": "240.3万"
         },
         {
           "index": 20,
           "title": "泽连斯基有牌打了",
           "url": "https://www.bilibili.com/video/av116460940689486/",
-          "hot": "203.6万"
+          "hot": "208.2万"
         },
         {
           "index": 21,
           "title": "“为有牺牲多壮志 敢教日月换新天”",
           "url": "https://www.bilibili.com/video/av116458877160522/",
-          "hot": "112.7万"
+          "hot": "114.4万"
         },
         {
           "index": 22,
           "title": "1200个魔方拼出项羽《关中王来了》名场面",
           "url": "https://www.bilibili.com/video/av116460924048817/",
-          "hot": "366.0万"
+          "hot": "373.4万"
         },
         {
           "index": 23,
           "title": "《Stella's Materialism¹²：Stampede》",
           "url": "https://www.bilibili.com/video/av116462115230037/",
-          "hot": "215.2万"
+          "hot": "217.8万"
         },
         {
           "index": 24,
           "title": "还在人体描边？自动步枪细节教学，让你见识自己的厉害",
           "url": "https://www.bilibili.com/video/av116458642217699/",
-          "hot": "367.2万"
+          "hot": "375.2万"
         },
         {
           "index": 25,
-          "title": "以防你不知道异环里可以强行让早雾喝酒",
-          "url": "https://www.bilibili.com/video/av116464480753149/",
-          "hot": "232.0万"
+          "title": "《明日方舟》七周年庆典活动宣传PV",
+          "url": "https://www.bilibili.com/video/av116464463973351/",
+          "hot": "192.7万"
         },
         {
           "index": 26,
-          "title": "《归环》概念片 ：回响",
-          "url": "https://www.bilibili.com/video/av116419299710090/",
-          "hot": "368.3万"
+          "title": "多 语 症",
+          "url": "https://www.bilibili.com/video/av116453307129105/",
+          "hot": "216.3万"
         },
         {
           "index": 27,
-          "title": "【毕导】我预言了一个物理规律，历时100天我证明了它",
-          "url": "https://www.bilibili.com/video/av116457635649581/",
-          "hot": "498.6万"
+          "title": "【星穹铁道生日会】二相乐园躲猫猫大赛！！",
+          "url": "https://www.bilibili.com/video/av116459145599907/",
+          "hot": "37.7万"
         },
         {
           "index": 28,
-          "title": "《明日方舟》七周年庆典活动宣传PV",
-          "url": "https://www.bilibili.com/video/av116464463973351/",
-          "hot": "175.3万"
+          "title": "【毕导】我预言了一个物理规律，历时100天我证明了它",
+          "url": "https://www.bilibili.com/video/av116457635649581/",
+          "hot": "506.6万"
         },
         {
           "index": 29,
-          "title": "为了阿萨拉！",
-          "url": "https://www.bilibili.com/video/av116459934194406/",
-          "hot": "216.2万"
+          "title": "《谁家之AI夺舍了我的父母》",
+          "url": "https://www.bilibili.com/video/av116452484979271/",
+          "hot": "235.7万"
         },
         {
           "index": 30,
-          "title": "算命的说我是航天之王【三角洲动画】",
-          "url": "https://www.bilibili.com/video/av116452803744845/",
-          "hot": "210.2万"
+          "title": "城市大富翁（4）",
+          "url": "https://www.bilibili.com/video/av116448424889365/",
+          "hot": "234.2万"
         },
         {
           "index": 31,
-          "title": "用无敌少侠的雷霆片头打开其它电影",
-          "url": "https://www.bilibili.com/video/av116459128884467/",
-          "hot": "187.3万"
+          "title": "为了阿萨拉！",
+          "url": "https://www.bilibili.com/video/av116459934194406/",
+          "hot": "217.3万"
         },
         {
           "index": 32,
-          "title": "爸爸 什么是【树倒猢狲散】啊？",
-          "url": "https://www.bilibili.com/video/av116397673812274/",
-          "hot": "124.6万"
+          "title": "《崩坏：星穹铁道》虚一直构 | 三周年开拓绩效回顾",
+          "url": "https://www.bilibili.com/video/av116468909935479/",
+          "hot": "56.1万"
         },
         {
           "index": 33,
-          "title": "《劝酒》",
-          "url": "https://www.bilibili.com/video/av116457685975563/",
-          "hot": "178.0万"
+          "title": "用无敌少侠的雷霆片头打开其它电影",
+          "url": "https://www.bilibili.com/video/av116459128884467/",
+          "hot": "189.1万"
         },
         {
           "index": 34,
-          "title": "一块饼干，怎么就成了最好的地图设计器？看完视频，一分钟内，你也可以设计你自己的游戏世界观！",
-          "url": "https://www.bilibili.com/video/av116444180318049/",
-          "hot": "224.5万"
+          "title": "爸爸 什么是【树倒猢狲散】啊？",
+          "url": "https://www.bilibili.com/video/av116397673812274/",
+          "hot": "125.7万"
         },
         {
           "index": 35,
-          "title": "王者荣耀×电影《哪吒之魔童闹海》联动CG：王吒聚五五，魔童闹峡谷！",
-          "url": "https://www.bilibili.com/video/av116457870460498/",
-          "hot": "300.4万"
+          "title": "《劝酒》",
+          "url": "https://www.bilibili.com/video/av116457685975563/",
+          "hot": "179.0万"
         },
         {
           "index": 36,
-          "title": "她本是戏中人，一字一腔，唱尽自己的一生。",
-          "url": "https://www.bilibili.com/video/av116459179149241/",
-          "hot": "57.1万"
+          "title": "算命的说我是航天之王【三角洲动画】",
+          "url": "https://www.bilibili.com/video/av116452803744845/",
+          "hot": "212.8万"
         },
         {
           "index": 37,
-          "title": "《 豪 到 你 了 ？ 我 很 抱 歉 ！ 》",
-          "url": "https://www.bilibili.com/video/av116448290675636/",
-          "hot": "142.8万"
+          "title": "她本是戏中人，一字一腔，唱尽自己的一生。",
+          "url": "https://www.bilibili.com/video/av116459179149241/",
+          "hot": "57.8万"
         },
         {
           "index": 38,
-          "title": "【深度解析】DeepSeek-V4终于换上了“中国心”！",
-          "url": "https://www.bilibili.com/video/av116459313437439/",
-          "hot": "76.0万"
+          "title": "王者荣耀×电影《哪吒之魔童闹海》联动CG：王吒聚五五，魔童闹峡谷！",
+          "url": "https://www.bilibili.com/video/av116457870460498/",
+          "hot": "302.3万"
         },
         {
           "index": 39,
-          "title": "《崩坏：星穹铁道》× 茶百道联动小曲 | 将军的茶",
-          "url": "https://www.bilibili.com/video/av116460370267196/",
-          "hot": "100.9万"
+          "title": "【深度解析】DeepSeek-V4终于换上了“中国心”！",
+          "url": "https://www.bilibili.com/video/av116459313437439/",
+          "hot": "76.7万"
         },
         {
           "index": 40,
-          "title": "我居然是班主任",
-          "url": "https://www.bilibili.com/video/av116448424891585/",
-          "hot": "153.9万"
+          "title": "一块饼干，怎么就成了最好的地图设计器？看完视频，一分钟内，你也可以设计你自己的游戏世界观！",
+          "url": "https://www.bilibili.com/video/av116444180318049/",
+          "hot": "227.9万"
         },
         {
           "index": 41,
-          "title": "《你这蜂蜜保真吗》",
-          "url": "https://www.bilibili.com/video/av116448324229300/",
-          "hot": "713.9万"
+          "title": "【真实事件改编】当人饭子遇上宗族村",
+          "url": "https://www.bilibili.com/video/av116458356998719/",
+          "hot": "321.1万"
         },
         {
           "index": 42,
-          "title": "【真实事件改编】当人饭子遇上宗族村",
-          "url": "https://www.bilibili.com/video/av116458356998719/",
-          "hot": "317.6万"
+          "title": "中国军号海外账号发布视频：他们的勾当——末路哀歌",
+          "url": "https://www.bilibili.com/video/av116462652038534/",
+          "hot": "69.7万"
         },
         {
           "index": 43,
-          "title": "为什么说霸王龙是个工程力学奇迹",
-          "url": "https://www.bilibili.com/video/av116446965341529/",
-          "hot": "168.3万"
+          "title": "我居然是班主任",
+          "url": "https://www.bilibili.com/video/av116448424891585/",
+          "hot": "155.0万"
         },
         {
           "index": 44,
-          "title": "变身猫娘，闯入赛博城市！",
-          "url": "https://www.bilibili.com/video/av116447082779903/",
-          "hot": "169.3万"
+          "title": "【星穹铁道生日会】别笑，你也过不了第二关！",
+          "url": "https://www.bilibili.com/video/av116457551693676/",
+          "hot": "30.3万"
         },
         {
           "index": 45,
-          "title": "sofa away",
-          "url": "https://www.bilibili.com/video/av116453944659040/",
-          "hot": "106.9万"
+          "title": "《 豪 到 你 了 ？ 我 很 抱 歉 ！ 》",
+          "url": "https://www.bilibili.com/video/av116448290675636/",
+          "hot": "143.4万"
         },
         {
           "index": 46,
-          "title": "中国军号海外账号发布视频：他们的勾当——末路哀歌",
-          "url": "https://www.bilibili.com/video/av116462652038534/",
-          "hot": "67.4万"
+          "title": "当我扮演嘉豪 老外觉得我不是人类hhh",
+          "url": "https://www.bilibili.com/video/av116459179153641/",
+          "hot": "118.6万"
         },
         {
           "index": 47,
-          "title": "时尚有时候是种天赋",
-          "url": "https://www.bilibili.com/video/av116447971904400/",
-          "hot": "273.7万"
+          "title": "特厨探店|辣但不是干辣！调味也非常好的—新安辣菜馆",
+          "url": "https://www.bilibili.com/video/av116460772918444/",
+          "hot": "130.8万"
         },
         {
           "index": 48,
-          "title": "特厨探店|辣但不是干辣！调味也非常好的—新安辣菜馆",
-          "url": "https://www.bilibili.com/video/av116460772918444/",
-          "hot": "129.0万"
+          "title": "时尚有时候是种天赋",
+          "url": "https://www.bilibili.com/video/av116447971904400/",
+          "hot": "275.1万"
         },
         {
           "index": 49,
-          "title": "当我扮演嘉豪 老外觉得我不是人类hhh",
-          "url": "https://www.bilibili.com/video/av116459179153641/",
-          "hot": "116.9万"
+          "title": "大二小伙AI策划校园枪击案，ChatGPT指导下5分钟2死6重伤！",
+          "url": "https://www.bilibili.com/video/av116458575170541/",
+          "hot": "198.1万"
         },
         {
           "index": 50,
-          "title": "你第一眼看到的是哪个字",
-          "url": "https://www.bilibili.com/video/av116447888016451/",
-          "hot": "175.5万"
+          "title": "不要再掰了",
+          "url": "https://www.bilibili.com/video/av116455085442170/",
+          "hot": "182.3万"
         }
       ]
     },
@@ -622,7 +622,7 @@
       "success": true,
       "title": "抖音热搜榜",
       "subtitle": "Top 29",
-      "update_time": "2026-04-26 20:31:10",
+      "update_time": "2026-04-26 21:48:17",
       "data": [
         {
           "index": 1,
